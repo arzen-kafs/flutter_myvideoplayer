@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1028550212742",
+    "firebase_url": "https://phoneotp-4f043.firebaseio.com",
+    "project_id": "phoneotp-4f043",
+    "storage_bucket": "phoneotp-4f043.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028550212742:android:f1579b9c2b689965c4a507",
+        "android_client_info": {
+          "package_name": "com.online.phoneotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028550212742-p6acsf9ioqkni89eehg392hc3bjrotcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-k-DNhSm6w7ppXcXC8UN2wo3EznRTq10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028550212742-p6acsf9ioqkni89eehg392hc3bjrotcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

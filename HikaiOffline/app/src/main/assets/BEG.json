@@ -1,0 +1,3684 @@
+[
+    {
+        "chapterNo": "BEG-01",
+        "title": "Components of Computer",
+        "ebook": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-01\/ebook\/543422d3fd2c30e4a23dd4d8da853300.pdf",
+        "items": 3,
+        "lecture": [
+            {
+                "id": 0,
+                "lectureId": "BEG-01-01",
+                "content": "video",
+                "title": "Components of Computer",
+                "file": "/storage/emulated/0/Android/data/com.part.hikaiplayer/files/Videos/ecc55b6a6e325e3fd9aafb5ab288cd3a.mp4",
+                "description": "what is computer, IPO Model"
+            },
+            {
+                "id": 1,
+                "lectureId": "BEG-01-02",
+                "content": "video",
+                "title": "Physical and Functional Parts",
+                "file": "/storage/emulated/0/Android/data/com.part.hikaiplayer/files/Videos/22dfa014c11ebb74d595524e0059536a.mp4",
+                "description": "Functional Parts of the Computer, Input and Output device, CPU."
+            },
+            {
+                "id": 2,
+                "lectureId": "BEG-01-03",
+                "content": "video",
+                "title": "Temporary and Permanent Storage",
+                "file": "/storage/emulated/0/Android/data/com.part.hikaiplayer/files/Videos/136596e36bc0b4e51c9edae4f36d3823.mp4",
+                "description": "Memory Unit, Primary and Secondary Storage"
+            },
+            {
+                "id": 3,
+                "content": "quiz",
+                "title": "Quiz 1",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "The memory unit is also called the __________ or the IAS",
+                        "answers": {
+                            "a": "Primary storage",
+                            "b": "Main memory",
+                            "c": "Secondary storage",
+                            "d": "Temporary storage"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "The CPU is divided into two parts ________ and _______",
+                        "answers": {
+                            "a": "Control Unit & Arithmetic Logic Unit",
+                            "b": "Input & Output",
+                            "c": "RAM & ROM",
+                            "d": "Memory Unit & Output Device"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "There are ________ functional components of a computer",
+                        "answers": {
+                            "a": "Two",
+                            "b": "Five",
+                            "c": "Three",
+                            "d": "Four"
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "________ and ________ are the most commonly used input devices",
+                        "answers": {
+                            "a": "Scanner & Printer",
+                            "b": "Keyboard & Pen drive",
+                            "c": "Web cam & Speakers",
+                            "d": "Mouse & Keyboard"
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "________ and ________ are the most commonly used output devices",
+                        "answers": {
+                            "a": "Scanner & Printer",
+                            "b": "Keyboard & Mouse",
+                            "c": "Desktop & Printer",
+                            "d": "Speaker & Keyboard"
+                        },
+                        "correctAnswer": "c"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "lectureId": "BEG-01-03",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-01\/ebook\/543422d3fd2c30e4a23dd4d8da853300.pdf"
+            }
+        ]
+    },
+    {
+        "chapterNo": "BEG-02",
+        "title": "Storage",
+        "ebook": "/storage/emulated/0/Android/data/com.part.hikaiplayer/files/Videos/20dd7a37c70c47af1489f127c21a9264.pdf",
+        "items": 3,
+        "lecture": [
+            {
+                "id": 5,
+                "lectureId": "BEG-02-01",
+                "content": "video",
+                "title": "Ram and Rom",
+                "file": "/storage/emulated/0/Android/data/com.part.hikaiplayer/files/Videos/31ef19aa9d124dd2f7ac0082dd2e89cd.mp4",
+                "description": "Random Access Memory (RAM) and Read Only Memory (ROM)"
+            },
+            {
+                "id": 6,
+                "lectureId": "BEG-02-02",
+                "content": "video",
+                "title": "Hard Disk, Tracks, Sectors and Cluster",
+                "file": "/storage/emulated/0/Android/data/com.part.hikaiplayer/files/Videos/d4720f843e190ce8babfbe277fbb2541.mp4",
+                "description": "Definition of Hard Disk, Tracks and Sectors, Cluster"
+            },
+            {
+                "id": 7,
+                "lectureId": "BEG-02-03",
+                "content": "video",
+                "title": "File System, Formatting and Drive",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-02\/videos\/BEG-02-03\/60602a8982bfdbeac9e06f516c25b7e1.mp4",
+                "description": "File System, Formatting of Disk, Types of Formatting, Drive"
+            },
+            {
+                "id": 8,
+                "content": "quiz",
+                "title": "Quiz 2",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "The ____________ unit, also known as primary storage place?",
+                        "answers": {
+                            "a": "ROM",
+                            "b": "Memory",
+                            "c": "RAM",
+                            "d": "Hard Disk"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "A computer when externally seen shows a ________",
+                        "answers": {
+                            "a": "CPU",
+                            "b": "Control Panel",
+                            "c": "System Unit",
+                            "d": "Personal Computer"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "__________ is volatile memory?",
+                        "answers": {
+                            "a": "RAM",
+                            "b": "ROM",
+                            "c": "Both A and B",
+                            "d": "Hard Disk"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "The surface of the disk is divided into a number of concentric circles known as ",
+                        "answers": {
+                            "a": "Sectors",
+                            "b": "Drive",
+                            "c": "Cluster",
+                            "d": "Tracks"
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Small amount of disk space are allocated to hold a file is",
+                        "answers": {
+                            "a": "Hard disk",
+                            "b": "Cluster",
+                            "c": "Rom",
+                            "d": "Sector"
+                        },
+                        "correctAnswer": "b"
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "lectureId": "BEG-02-03",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-02\/ebook\/20dd7a37c70c47af1489f127c21a9264.pdf"
+            }
+        ]
+    },
+    {
+        "chapterNo": "BEG-03",
+        "title": "Measurement Unit",
+        "ebook": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-03\/ebook\/2eeee478e27adc90ca426ae78ff230ec.pdf",
+        "items": 3,
+        "lecture": [
+            {
+                "id": 10,
+                "lectureId": "BEG-03-01",
+                "content": "video",
+                "title": "Binary Language",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-03\/videos\/BEG-03-01\/4a71a1935dc1caee3643d7706474d5e5.mp4",
+                "description": "Interpretation of Information to the Computer in terms of Binary Language."
+            },
+            {
+                "id": 11,
+                "lectureId": "BEG-03-02",
+                "content": "video",
+                "title": "Conversion",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-03\/videos\/BEG-03-02\/e406d15aaaa321073e8ada271357ed7a.mp4",
+                "description": "Conversion of Binary to Decimal Vice Versa"
+            },
+            {
+                "id": 12,
+                "lectureId": "BEG-03-03",
+                "content": "video",
+                "title": "Units of Computer Memory",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-03\/videos\/BEG-03-03\/edb20374ae1cb39663a83fea4b29d0c2.mp4",
+                "description": "Units to measure memory of computer BITs, BYTEs, KILO BYTEs etc."
+            },
+            {
+                "id": 13,
+                "content": "quiz",
+                "title": "Quiz 3",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "Binary equivalent of 54 is",
+                        "answers": {
+                            "a": "111110",
+                            "b": "00001",
+                            "c": "110110",
+                            "d": "010101"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Any information that is manipulated by computer is coded into a series of ",
+                        "answers": {
+                            "a": "* and #",
+                            "b": "1 and 0",
+                            "c": "Binary",
+                            "d": "\/ and ?"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Character is coded into a series of _______ 1 and 0",
+                        "answers": {
+                            "a": "Nine\t",
+                            "b": "Eight\t",
+                            "c": "Ten",
+                            "d": " Five"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "1 GB is equal to ",
+                        "answers": {
+                            "a": "2048MB\t",
+                            "b": "1024GB\t",
+                            "c": "1024MB",
+                            "d": "2048GB"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Full form of MB is?",
+                        "answers": {
+                            "a": "Megabyte",
+                            "b": "Both A and B\t",
+                            "c": "Megabit",
+                            "d": "None of them"
+                        },
+                        "correctAnswer": "a"
+                    }
+                ]
+            },
+            {
+                "id": 14,
+                "lectureId": "BEG-03-03",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-03\/ebook\/2eeee478e27adc90ca426ae78ff230ec.pdf"
+            }
+        ]
+    },
+    {
+        "chapterNo": "BEG-04",
+        "title": "Files and Folders",
+        "ebook": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-04\/ebook\/ca50e02d344f28c1da0d4346c51dac3e.pdf",
+        "items": 2,
+        "lecture": [
+            {
+                "id": 15,
+                "lectureId": "BEG-04-01",
+                "content": "video",
+                "title": "File and File Name",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-04\/videos\/BEG-04-01\/e71a67e3958bdfe000bdca21282cf08e.mp4",
+                "description": "File, File Name (How to create files by using Notepad and save them in other locations)"
+            },
+            {
+                "id": 16,
+                "lectureId": "BEG-04-01",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-04\/assignment\/BEG-04-01\/b59eadb0f0e0958103dab40cf7d9c1c3.pdf"
+            },
+            {
+                "id": 17,
+                "lectureId": "BEG-04-02",
+                "content": "video",
+                "title": "Folder and Path",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-04\/videos\/BEG-04-02\/6e5c585eeb7d4961071ca3d2cca244f9.mp4",
+                "description": "Folder Structure (How to create folder and saving that folder)"
+            },
+            {
+                "id": 18,
+                "lectureId": "BEG-04-02",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-04\/assignment\/BEG-04-02\/5eb68187ddade2d46c798c07e51303a8.pdf"
+            },
+            {
+                "id": 19,
+                "content": "quiz",
+                "title": "Quiz 4",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "A complete collection of information or user-created document is called ",
+                        "answers": {
+                            "a": "Folder",
+                            "b": "File\t",
+                            "c": "Program",
+                            "d": "None of the above"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "File name is separated by a____ from the first part of the file name.",
+                        "answers": {
+                            "a": "Asterisk",
+                            "b": "Question mark",
+                            "c": "Dot",
+                            "d": "Colon"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "File Name cannot be more than",
+                        "answers": {
+                            "a": "300",
+                            "b": "500",
+                            "c": "200",
+                            "d": "256"
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "NTFS stands for",
+                        "answers": {
+                            "a": "New Terminology File System\t",
+                            "b": "Nano Technology File System",
+                            "c": "New Technology Folder System",
+                            "d": "New Technology File System"
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Location of a file is commonly referred to as the ___________ of a file?",
+                        "answers": {
+                            "a": "Folder",
+                            "b": "Directory",
+                            "c": "None",
+                            "d": "Path"
+                        },
+                        "correctAnswer": "d"
+                    }
+                ]
+            },
+            {
+                "id": 20,
+                "lectureId": "BEG-04-02",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-04\/ebook\/ca50e02d344f28c1da0d4346c51dac3e.pdf"
+            }
+        ]
+    },
+    {
+        "chapterNo": "BEG-05",
+        "title": "Viewing File and Folder",
+        "ebook": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-05\/ebook\/4c1f18074e45a03bffa00175121cdc55.pdf",
+        "items": 1,
+        "lecture": [
+            {
+                "id": 21,
+                "lectureId": "BEG-05-01",
+                "content": "video",
+                "title": "Viewing the content of folder",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-05\/videos\/BEG-05-01\/331570a0e1120d50c56959099f76229b.mp4",
+                "description": "Introduction of wildcard, Viewing the contents of a folder. "
+            },
+            {
+                "id": 22,
+                "lectureId": "BEG-05-01",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-05\/assignment\/BEG-05-01\/9ecd27064d396533ba4d618894d35d48.pdf"
+            },
+            {
+                "id": 23,
+                "content": "quiz",
+                "title": "Quiz 5",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "The most commonly used wildcard character is ",
+                        "answers": {
+                            "a": "*",
+                            "b": "#",
+                            "c": "?",
+                            "d": "\/"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Which of these is wildcard symbol?",
+                        "answers": {
+                            "a": "?",
+                            "b": "%",
+                            "c": "!",
+                            "d": "&"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "The asterisk (*) is used for",
+                        "answers": {
+                            "a": "One Character",
+                            "b": "Zero or more character",
+                            "c": "Two Character\t",
+                            "d": "None of the Above."
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "The Question Mark (?) is used for",
+                        "answers": {
+                            "a": "Zero Character",
+                            "b": "Single Character",
+                            "c": "One Character",
+                            "d": "More than two Character."
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Wildcard Character is used to search",
+                        "answers": {
+                            "a": "Files",
+                            "b": "Printer",
+                            "c": "Folder",
+                            "d": "All the above"
+                        },
+                        "correctAnswer": "d"
+                    }
+                ]
+            },
+            {
+                "id": 24,
+                "lectureId": "BEG-05-01",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-05\/ebook\/4c1f18074e45a03bffa00175121cdc55.pdf"
+            }
+        ]
+    },
+    {
+        "chapterNo": "BEG-06",
+        "title": "Hardware and Software",
+        "ebook": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-06\/ebook\/ba9c264fcacbf53699df8fe151b026e6.pdf",
+        "items": 2,
+        "lecture": [
+            {
+                "id": 25,
+                "lectureId": "BEG-06-01",
+                "content": "video",
+                "title": "Hardware and Software",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-06\/videos\/BEG-06-01\/4a8b4a3ce366f8bd23e1628bb7961276.mp4",
+                "description": "Definitions, Difference between System and Application Software"
+            },
+            {
+                "id": 26,
+                "lectureId": "BEG-06-02",
+                "content": "video",
+                "title": "Booting",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-06\/videos\/BEG-06-02\/a0930e7faa999f58ff2d95c98d11de1c.mp4",
+                "description": "Operating System, Booting, Types of Booting, booting disk, System Files."
+            },
+            {
+                "id": 27,
+                "content": "quiz",
+                "title": "Quiz 6",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "The mechanical and electronic components of computer are known as",
+                        "answers": {
+                            "a": "Software",
+                            "b": "Hardware",
+                            "c": "Application",
+                            "d": "Utility software"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "The utility software is nothing but",
+                        "answers": {
+                            "a": "Depending software",
+                            "b": "External software",
+                            "c": "Optional software",
+                            "d": "firmware"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "System software, also known as",
+                        "answers": {
+                            "a": "Operating software",
+                            "b": "Utility software\t",
+                            "c": "Program",
+                            "d": "Optional Software"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "The process of starting or resetting a computer is called",
+                        "answers": {
+                            "a": "Booting",
+                            "b": "Shutdown",
+                            "c": "Restart",
+                            "d": "Logoff"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "There are_______ types of booting",
+                        "answers": {
+                            "a": "1",
+                            "b": "2",
+                            "c": "3",
+                            "d": "4"
+                        },
+                        "correctAnswer": "c"
+                    }
+                ]
+            },
+            {
+                "id": 28,
+                "lectureId": "BEG-06-02",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-06\/ebook\/ba9c264fcacbf53699df8fe151b026e6.pdf"
+            }
+        ]
+    },
+    {
+        "chapterNo": "BEG-07",
+        "title": "Operating System",
+        "ebook": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-07\/ebook\/b3a2b158317fd26a3d903bfec39bc386.pdf",
+        "items": 3,
+        "lecture": [
+            {
+                "id": 29,
+                "lectureId": "BEG-07-01",
+                "content": "video",
+                "title": "CUI and GUI",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-07\/videos\/BEG-07-01\/1c7ee92e2975a6714ca74a96a86407e0.mp4",
+                "description": "Windows Operating system, Versions of Operating system, Character User Interface (CUI), Graphical User Interface (GUI)."
+            },
+            {
+                "id": 30,
+                "lectureId": "BEG-07-02",
+                "content": "video",
+                "title": "Android",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-07\/videos\/BEG-07-02\/13c627bef1c09f115edec707c21416e8.mp4",
+                "description": "Android Operating System, Versions of Android Operating System"
+            },
+            {
+                "id": 31,
+                "lectureId": "BEG-07-03",
+                "content": "video",
+                "title": "Windows Desktop",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-07\/videos\/BEG-07-03\/a0d542f7de4ffe0529eadaef14d690b3.mp4",
+                "description": "Windows 10 Desktop, Taskbar, Notification Area and other menus."
+            },
+            {
+                "id": 32,
+                "content": "quiz",
+                "title": "Quiz 7",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "When was windows 8 released?",
+                        "answers": {
+                            "a": "26 October 2011",
+                            "b": "26 October 2010",
+                            "c": "26 October 2012",
+                            "d": "26 October 2013"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Full form of CUI?",
+                        "answers": {
+                            "a": "Change User Interface ",
+                            "b": "Character User Interface\t",
+                            "c": "Command User Interface",
+                            "d": "None of the above"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Cortana is a feature of which Windows Version?",
+                        "answers": {
+                            "a": "Windows 7",
+                            "b": "Windows Vista",
+                            "c": "Windows 8",
+                            "d": "Windows 10"
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "What is the name of Android 3.0?",
+                        "answers": {
+                            "a": "Gingerbread",
+                            "b": "Kit-Kat",
+                            "c": "Honeycomb",
+                            "d": "Jellybean"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Notification Area is located at which side of the task bar?",
+                        "answers": {
+                            "a": "Center",
+                            "b": "Right side",
+                            "c": "Left side",
+                            "d": "Bottom Side"
+                        },
+                        "correctAnswer": "b"
+                    }
+                ]
+            },
+            {
+                "id": 33,
+                "lectureId": "BEG-07-03",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-07\/ebook\/b3a2b158317fd26a3d903bfec39bc386.pdf"
+            }
+        ]
+    },
+    {
+        "chapterNo": "BEG-08",
+        "title": "Windows",
+        "ebook": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-08\/ebook\/7ec57baa2fc5360203501247773c466a.pdf",
+        "items": 6,
+        "lecture": [
+            {
+                "id": 34,
+                "lectureId": "BEG-08-01",
+                "content": "video",
+                "title": "Ms Paint Theory",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-08\/videos\/BEG-08-01\/c3b6a1cd5a10c33eeae893e1943a12a0.mp4",
+                "description": "What is MS Paint, Tools of Ms Paint."
+            },
+            {
+                "id": 35,
+                "lectureId": "BEG-08-02",
+                "content": "video",
+                "title": "Ms Paint Practical",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-08\/videos\/BEG-08-02\/95a2e45702e2cee11fbfc177e6500263.mp4",
+                "description": "How to use Ms Paint, How to draw or insert shape."
+            },
+            {
+                "id": 36,
+                "lectureId": "BEG-08-03",
+                "content": "video",
+                "title": "Dialog Box Theory",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-08\/videos\/BEG-08-03\/f4e82ddd99002c4e61db72c1b1a8334c.mp4",
+                "description": "Windows Dialog Box and Elements of Dialog Box."
+            },
+            {
+                "id": 37,
+                "lectureId": "BEG-08-04",
+                "content": "video",
+                "title": "Dialog Box Practical",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-08\/videos\/BEG-08-04\/8ffa9747a45548f8a1e79ecee0226192.mp4",
+                "description": "How to Implement Windows Dialog Box and Elements of windows Dialog Box"
+            },
+            {
+                "id": 38,
+                "lectureId": "BEG-08-05",
+                "content": "video",
+                "title": "Themes",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-08\/videos\/BEG-08-05\/c99f4654ac38fe0c420f690256cc4062.mp4",
+                "description": "Windows Theme, Desktop Background and Screen Saver."
+            },
+            {
+                "id": 39,
+                "lectureId": "BEG-08-05",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-08\/assignment\/BEG-08-05\/b3ce101a8a037f52f593b21f9217802e.pdf"
+            },
+            {
+                "id": 40,
+                "lectureId": "BEG-08-06",
+                "content": "video",
+                "title": "Print Screen",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-08\/videos\/BEG-08-06\/57866c4573b2aafd693e5dbf69dbb6ea.mp4",
+                "description": "Definition of Print Screen, Shortcuts of Print Screen."
+            },
+            {
+                "id": 41,
+                "content": "quiz",
+                "title": "Quiz 8",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "___________ button temporarily close a window?",
+                        "answers": {
+                            "a": "Minimize",
+                            "b": "Maximize",
+                            "c": "Close",
+                            "d": "Restore"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "The outer frame of a window is known as",
+                        "answers": {
+                            "a": "Border",
+                            "b": "Virtual desktop",
+                            "c": "Scroll Bar",
+                            "d": "Task view"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "A ________ box is a window used to display information to the user",
+                        "answers": {
+                            "a": "Check",
+                            "b": "Dialog",
+                            "c": "Increment",
+                            "d": "List"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "_______ is a drawing tool that can be used to create simple or elaborate drawings",
+                        "answers": {
+                            "a": "Word",
+                            "b": "Paint",
+                            "c": "Power Point",
+                            "d": "None of the above"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "______ button is used to see how the selected screen saver will appear",
+                        "answers": {
+                            "a": "Control Panel",
+                            "b": "Personalize ",
+                            "c": "Settings",
+                            "d": "Preview"
+                        },
+                        "correctAnswer": "d"
+                    }
+                ]
+            },
+            {
+                "id": 42,
+                "lectureId": "BEG-08-06",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-08\/ebook\/7ec57baa2fc5360203501247773c466a.pdf"
+            }
+        ]
+    },
+    {
+        "chapterNo": "BEG-09",
+        "title": "Files and Folder Structure",
+        "ebook": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-09\/ebook\/d5cd45e4bccb0b6bd7366a7cbe2f8fa5.pdf",
+        "items": 5,
+        "lecture": [
+            {
+                "id": 43,
+                "lectureId": "BEG-09-01",
+                "content": "video",
+                "title": "Recycle Bin Theory",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-09\/videos\/BEG-09-01\/456e8262492e17ff4d7313834369f5e5.mp4",
+                "description": "Theory on Recycle Bin, Restore file from Recycle Bin and Creating Blank File."
+            },
+            {
+                "id": 44,
+                "lectureId": "BEG-09-01",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-09\/assignment\/BEG-09-01\/8b919517740e5bc8d45b64935996e595.pdf"
+            },
+            {
+                "id": 45,
+                "lectureId": "BEG-09-02",
+                "content": "video",
+                "title": "Recycle Bin Practical",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-09\/videos\/BEG-09-02\/bacfdf272ec17d5d6bd6b7b69905c19b.mp4",
+                "description": "Practical on Recycle Bin, Restore file from Recycle Bin, Creating Blank File."
+            },
+            {
+                "id": 46,
+                "lectureId": "BEG-09-02",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-09\/assignment\/BEG-09-02\/bdfbda0ef391af65a96dc440e0157a44.pdf"
+            },
+            {
+                "id": 47,
+                "lectureId": "BEG-09-03",
+                "content": "video",
+                "title": "Folder View",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-09\/videos\/BEG-09-03\/2bf2f6a5ad3c345619995052f56bfd99.mp4",
+                "description": "Navigation and Managing Folder and Different Types of View."
+            },
+            {
+                "id": 48,
+                "lectureId": "BEG-09-04",
+                "content": "video",
+                "title": "Shortcut Theory",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-09\/videos\/BEG-09-04\/5b731fa0abc70c76bf69a2a7905be636.mp4",
+                "description": "Theory on folder structure, shortcut of folder, copy, cut, rename, delete folder and file"
+            },
+            {
+                "id": 49,
+                "lectureId": "BEG-09-05",
+                "content": "video",
+                "title": "Shortcut Practical",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-09\/videos\/BEG-09-05\/70df42af78aef428417e89146df459ff.mp4",
+                "description": "Showing how to create folder structure, creating shortcut of folder, how to copy file and folder or Cut the file and folder, renaming the file and folder, and deleting files and folders."
+            },
+            {
+                "id": 50,
+                "lectureId": "BEG-09-05",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-09\/assignment\/BEG-09-05\/1519629ae27df9be14a57f45e828b888.pdf"
+            },
+            {
+                "id": 51,
+                "content": "quiz",
+                "title": "Quiz 9",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "The ________ is used to access libraries, folders etc.",
+                        "answers": {
+                            "a": "Navigation Pane",
+                            "b": "Tab",
+                            "c": "Quick Access",
+                            "d": "Ribbon"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "________ is a place where windows store temporarily deleted files and folders.",
+                        "answers": {
+                            "a": "Navigation Pane",
+                            "b": "Recycle Bin",
+                            "c": "Context",
+                            "d": "Ribbon"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Items deleted from a pen drive or CD is ________ deleted",
+                        "answers": {
+                            "a": "Permanently",
+                            "b": "Sends to recycle Bin",
+                            "c": "Temporarily",
+                            "d": "None of the above"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "___________ is the extension name for any shortcut file",
+                        "answers": {
+                            "a": ".PPTX",
+                            "b": ".DOCX",
+                            "c": ".XLSX",
+                            "d": ".LNK"
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "The shortcut file or folder when deleted ____________ does not get deleted.",
+                        "answers": {
+                            "a": "Duplicate Item",
+                            "b": "Copy Item",
+                            "c": "Original Item",
+                            "d": "Cut Item"
+                        },
+                        "correctAnswer": "c"
+                    }
+                ]
+            },
+            {
+                "id": 52,
+                "lectureId": "BEG-09-05",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-09\/ebook\/d5cd45e4bccb0b6bd7366a7cbe2f8fa5.pdf"
+            }
+        ]
+    },
+    {
+        "chapterNo": "BEG-10",
+        "title": "Application of windows",
+        "ebook": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-10\/ebook\/0fa3dc819e5d37af0c15abc96940c8ef.pdf",
+        "items": 8,
+        "lecture": [
+            {
+                "id": 53,
+                "lectureId": "BEG-10-01",
+                "content": "video",
+                "title": "Windows Application Theory",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-10\/videos\/BEG-10-01\/4417f700e9c5aa1ccf7c8cf648de40dc.mp4",
+                "description": " Applications of Windows, What is application file name and file name extension"
+            },
+            {
+                "id": 54,
+                "lectureId": "BEG-10-02",
+                "content": "video",
+                "title": "Windows Application Practical",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-10\/videos\/BEG-10-02\/03e93ba95664ff5fd04d4dcae9c64be2.mp4",
+                "description": " Practical on Applications of Windows, What is application file name and file name extension"
+            },
+            {
+                "id": 55,
+                "lectureId": "BEG-10-03",
+                "content": "video",
+                "title": "File Association",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-10\/videos\/BEG-10-03\/ca1683d48e610160e55490a3521e1775.mp4",
+                "description": "Concept of File Association and Demo to open the same file through different application"
+            },
+            {
+                "id": 56,
+                "lectureId": "BEG-10-03",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-10\/assignment\/BEG-10-03\/846570edd3c719a3c255a9a54a1b5ecb.pdf"
+            },
+            {
+                "id": 57,
+                "lectureId": "BEG-10-04",
+                "content": "video",
+                "title": "File Attributes Theory",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-10\/videos\/BEG-10-04\/5a4051fff19c9e157d4b43cca32b22bc.mp4",
+                "description": "Theory on How to set file attribute? What is defragmentation"
+            },
+            {
+                "id": 58,
+                "lectureId": "BEG-10-05",
+                "content": "video",
+                "title": "File Attributes Practical",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-10\/videos\/BEG-10-05\/a4cc1b291d446e3ca8ce8b93465308ea.mp4",
+                "description": "Practical on How to set file attribute? What is defragmentation"
+            },
+            {
+                "id": 59,
+                "lectureId": "BEG-10-05",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-10\/assignment\/BEG-10-05\/683e7d944abaac26a8c4ff0122214288.pdf"
+            },
+            {
+                "id": 60,
+                "lectureId": "BEG-10-06",
+                "content": "video",
+                "title": "Keyboard Shortcut Theory",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-10\/videos\/BEG-10-06\/1b460f89aeaa6da13415417bca29f488.mp4",
+                "description": "Theory on creating shortcut of different types of Application and cut,copy,paste and rename etc. "
+            },
+            {
+                "id": 61,
+                "lectureId": "BEG-10-07",
+                "content": "video",
+                "title": "Keyboard Shortcut Practical",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-10\/videos\/BEG-10-07\/5b35656d7e05ff7914d53983feb5d29a.mp4",
+                "description": "Practical on creating shortcut of different types of Application and cut,copy,paste and rename etc. "
+            },
+            {
+                "id": 62,
+                "lectureId": "BEG-10-08",
+                "content": "video",
+                "title": "Folder Structure",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-10\/videos\/BEG-10-08\/42910edc451ef7dfd65f21b7918b59a2.mp4",
+                "description": "Practical on creating folder Structure copy, paste, rename etc"
+            },
+            {
+                "id": 63,
+                "lectureId": "BEG-10-08",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-10\/assignment\/BEG-10-08\/fcabc11dc18dd14fd63174bf49cc9c48.pdf"
+            },
+            {
+                "id": 64,
+                "content": "quiz",
+                "title": "Quiz 10",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "Which option will take the user to login screen from the desktop?",
+                        "answers": {
+                            "a": "Shutdown",
+                            "b": "Restart",
+                            "c": "Signout",
+                            "d": "None of the above"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "What is the shortcut key to paste?",
+                        "answers": {
+                            "a": "Ctrl + X",
+                            "b": "Ctrl + V",
+                            "c": " Ctrl + D",
+                            "d": "Ctrl + C"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Which application is present by default in windows OS?",
+                        "answers": {
+                            "a": "MS-Access",
+                            "b": "Notepad",
+                            "c": "Firefox",
+                            "d": "MS-Word"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "A file with ________ attribute cannot be changed, or edited",
+                        "answers": {
+                            "a": "Read-only",
+                            "b": "Hidden",
+                            "c": "Achieve",
+                            "d": "system"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "What is the shortcut key for copy?",
+                        "answers": {
+                            "a": "Ctrl + X",
+                            "b": "Ctrl + V",
+                            "c": "Ctrl + D",
+                            "d": "Ctrl + C"
+                        },
+                        "correctAnswer": "d"
+                    }
+                ]
+            },
+            {
+                "id": 65,
+                "lectureId": "BEG-10-08",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-10\/ebook\/0fa3dc819e5d37af0c15abc96940c8ef.pdf"
+            }
+        ]
+    },
+    {
+        "chapterNo": "BEG-11",
+        "title": "Windows User Account",
+        "ebook": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-11\/ebook\/ba6a07691acc70b53b261f44f373822a.pdf",
+        "items": 4,
+        "lecture": [
+            {
+                "id": 66,
+                "lectureId": "BEG-11-01",
+                "content": "video",
+                "title": "User Account",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-11\/videos\/BEG-11-01\/e3bd52e3f706e0d347f67b7c7f9125d2.mp4",
+                "description": "What is user account? Types of Microsoft user, Account: Administrative and Standard A\/C "
+            },
+            {
+                "id": 67,
+                "lectureId": "BEG-11-02",
+                "content": "video",
+                "title": "Creating User Account Theory",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-11\/videos\/BEG-11-02\/e6b9ca695b7ce2a9902e7a8f9bf1c658.mp4",
+                "description": "Theory on How to create windows user A\/C"
+            },
+            {
+                "id": 68,
+                "lectureId": "BEG-11-03",
+                "content": "video",
+                "title": "Creating User Account Practical",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-11\/videos\/BEG-11-03\/de85a29cca90bfceb446ffcdca006e7d.mp4",
+                "description": "Practical on How to create windows user A\/C "
+            },
+            {
+                "id": 69,
+                "lectureId": "BEG-11-04",
+                "content": "video",
+                "title": "Sign Out and Sign In ",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-11\/videos\/BEG-11-04\/f3c302c1b4035a1ba61e9c8f111b11e4.mp4",
+                "description": "Login Screen, Sign Out and Switch user "
+            },
+            {
+                "id": 70,
+                "lectureId": "BEG-11-04",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-11\/assignment\/BEG-11-04\/6e3cde4fa5d556e7aa127303d717ba25.pdf"
+            },
+            {
+                "id": 71,
+                "content": "quiz",
+                "title": "Quiz 11",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "A user with ______________ type of account can change the account type of any other account.",
+                        "answers": {
+                            "a": "Local Account",
+                            "b": "Administrator",
+                            "c": "Standard Account",
+                            "d": "None of them"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "A ____________ is a username and password combination that one must use to log into windows OS?",
+                        "answers": {
+                            "a": "Microsoft Account",
+                            "b": "Local Account",
+                            "c": "Outlook Account",
+                            "d": "All the above"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Option that let one user to use another account without signing out from the current account?",
+                        "answers": {
+                            "a": "Restart",
+                            "b": "Log Out",
+                            "c": "Switch User",
+                            "d": "None of them"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "How many types of user account are there in windows 10?",
+                        "answers": {
+                            "a": "3",
+                            "b": "2",
+                            "c": " 5",
+                            "d": "4"
+                        },
+                        "correctAnswer": "a"
+                    }
+                ]
+            },
+            {
+                "id": 72,
+                "lectureId": "BEG-11-04",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-11\/ebook\/ba6a07691acc70b53b261f44f373822a.pdf"
+            }
+        ]
+    },
+    {
+        "chapterNo": "BEG-12",
+        "title": "Installation of Software and Hardware",
+        "ebook": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-12\/ebook\/8f592d702a3e7657668421f16a184e36.pdf",
+        "items": 2,
+        "lecture": [
+            {
+                "id": 73,
+                "lectureId": "BEG-12-01",
+                "content": "video",
+                "title": "Installation",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-12\/videos\/BEG-12-01\/859355c82cd2d4861cebf9846dbbe186.mp4",
+                "description": "Theory on Installation of Hardware and Software"
+            },
+            {
+                "id": 74,
+                "lectureId": "BEG-12-02",
+                "content": "video",
+                "title": "Installation Practical",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-12\/videos\/BEG-12-02\/ad57bdd2989798faff463622b4d5f042.mp4",
+                "description": "Practical on Installation of Hardware and Software "
+            },
+            {
+                "id": 75,
+                "content": "quiz",
+                "title": "Quiz 12",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "__________ is incorporating certain programs to the machine.",
+                        "answers": {
+                            "a": "Installation",
+                            "b": "Software",
+                            "c": "Hardware",
+                            "d": "All of them"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "A __________ device is that, which can be attached to the computer and can be used right away",
+                        "answers": {
+                            "a": "Device Driver",
+                            "b": "Plug and Play",
+                            "c": "Non-Plug and Play",
+                            "d": "None of them"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "_____________ hardware must be installed with the additional software that comes when the device is purchased",
+                        "answers": {
+                            "a": "Plug and Play",
+                            "b": "Software",
+                            "c": "Non-Plug and Play",
+                            "d": "System"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "From the below option which one is non-plug and play device",
+                        "answers": {
+                            "a": "Scanners",
+                            "b": "Mouse",
+                            "c": "Keyboard",
+                            "d": "Pen drive"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "From the below option which one is plug and play device",
+                        "answers": {
+                            "a": "Scanners",
+                            "b": "Mouse",
+                            "c": "Printers",
+                            "d": "All of them"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "What is the extension file name of any application",
+                        "answers": {
+                            "a": ".ink",
+                            "b": ".LNK",
+                            "c": ".exe",
+                            "d": ".doc"
+                        },
+                        "correctAnswer": "c"
+                    }
+                ]
+            },
+            {
+                "id": 76,
+                "lectureId": "BEG-12-02",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-12\/ebook\/8f592d702a3e7657668421f16a184e36.pdf"
+            }
+        ]
+    },
+    {
+        "chapterNo": "BEG-13",
+        "title": "Command Processor",
+        "ebook": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-13\/ebook\/48f00c8ae112bd8781f90eabea191f55.pdf",
+        "items": 5,
+        "lecture": [
+            {
+                "id": 77,
+                "lectureId": "BEG-13-01",
+                "content": "video",
+                "title": "How to Work in Command Prompt (Theory)",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-13\/videos\/BEG-13-01\/edc079e3299e5a703e9a46e51cd8de04.mp4",
+                "description": "Working With Command Processor in Windows 10"
+            },
+            {
+                "id": 78,
+                "lectureId": "BEG-13-02",
+                "content": "video",
+                "title": "How to Work in Command Prompt (Practical)",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-13\/videos\/BEG-13-02\/655154a2a3c1d7a4bf81e3243a3a703f.mp4",
+                "description": "Working with Command Processor Practical"
+            },
+            {
+                "id": 79,
+                "lectureId": "BEG-13-02",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-13\/assignment\/BEG-13-02\/c495b4f9f280938583f38e8f594177c9.pdf"
+            },
+            {
+                "id": 80,
+                "lectureId": "BEG-13-03",
+                "content": "video",
+                "title": "Changing Icons",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-13\/videos\/BEG-13-03\/3f71e61af64f694e6858e72960d26dbe.mp4",
+                "description": "Changing Icon of a folder Theory"
+            },
+            {
+                "id": 81,
+                "lectureId": "BEG-13-04",
+                "content": "video",
+                "title": "Changing Icons Practical",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-13\/videos\/BEG-13-04\/413d3b6f8c83d9789a94b2a65a40fb3a.mp4",
+                "description": "Changing Icon of a folder Practical"
+            },
+            {
+                "id": 82,
+                "lectureId": "BEG-13-04",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-13\/assignment\/BEG-13-04\/231ee5cae409d19de9822aa096383461.pdf"
+            },
+            {
+                "id": 83,
+                "lectureId": "BEG-13-05",
+                "content": "video",
+                "title": "System Information",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-13\/videos\/BEG-13-05\/8849beb7bfa9416041d38c7c28a17a3e.mp4",
+                "description": "How to check the system Information (Practical)"
+            },
+            {
+                "id": 84,
+                "lectureId": "BEG-13-05",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-13\/assignment\/BEG-13-05\/29bea5cdbaf1f89d3dcfe851ad0419f7.pdf"
+            },
+            {
+                "id": 85,
+                "content": "quiz",
+                "title": "Quiz 13",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "Full form of cd command",
+                        "answers": {
+                            "a": "Change Desktop",
+                            "b": "Charge Directory",
+                            "c": "Charge Directory",
+                            "d": "Change Directory"
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Which command is used to create a folder in command prompt?",
+                        "answers": {
+                            "a": "md",
+                            "b": "cd",
+                            "c": "rm",
+                            "d": "ren"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Taskbar can be divided in to ____ section",
+                        "answers": {
+                            "a": "3",
+                            "b": "7",
+                            "c": "6",
+                            "d": "5"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "_________ on the shortcut folder which you want to change the icon",
+                        "answers": {
+                            "a": "Left-click",
+                            "b": "Double-click",
+                            "c": "Right-click",
+                            "d": "Single-click"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "What is the full form of DOS?",
+                        "answers": {
+                            "a": "Disk Operating System",
+                            "b": "Drive Operating System",
+                            "c": "Disk Open System",
+                            "d": "Drive Operating System"
+                        },
+                        "correctAnswer": "a"
+                    }
+                ]
+            },
+            {
+                "id": 86,
+                "lectureId": "BEG-13-05",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-13\/ebook\/48f00c8ae112bd8781f90eabea191f55.pdf"
+            }
+        ]
+    },
+    {
+        "chapterNo": "BEG-14",
+        "title": "Internet Basics",
+        "ebook": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-14\/ebook\/9702bcefc26d6d1a18c4b37f64cb5e9b.pdf",
+        "items": 4,
+        "lecture": [
+            {
+                "id": 87,
+                "lectureId": "BEG-14-01",
+                "content": "video",
+                "title": "Internet and Web",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-14\/videos\/BEG-14-01\/7c1552e4fc1883fc6ef02fc756c5631b.mp4",
+                "description": "Introduction of Internet and web"
+            },
+            {
+                "id": 88,
+                "lectureId": "BEG-14-02",
+                "content": "video",
+                "title": "Work in Online",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-14\/videos\/BEG-14-02\/08c955571c6478bcc39544432e6061db.mp4",
+                "description": "What can you do in online? (Finding Information, Email, Social Networking, Chat and Instant Massaging, Everyday tasks) "
+            },
+            {
+                "id": 89,
+                "lectureId": "BEG-14-03",
+                "content": "video",
+                "title": "Creating and Sending Gmail (Theory)",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-14\/videos\/BEG-14-03\/04873e3c43cd3352a70e77a9e7d5f0c5.mp4",
+                "description": "Introduction of Gmail. Creating Gmail Account sending email through Gmail"
+            },
+            {
+                "id": 90,
+                "lectureId": "BEG-14-04",
+                "content": "video",
+                "title": "Creating and Sending Gmail (Practical)",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-14\/videos\/BEG-14-04\/bff9de21d8430751c300a379d94c804d.mp4",
+                "description": "Introduction of Gmail. Creating Gmail Account sending email through Gmail"
+            },
+            {
+                "id": 91,
+                "lectureId": "BEG-14-04",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-14\/assignment\/BEG-14-04\/ce92885991507c7dc8305c037ac8a1a3.pdf"
+            },
+            {
+                "id": 92,
+                "content": "quiz",
+                "title": "Quiz 14",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "From the below option which software comes under the category of social Networking?",
+                        "answers": {
+                            "a": "Instagram",
+                            "b": "Facebook",
+                            "c": "Twitter",
+                            "d": "All of the above"
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Which is the default browser in windows?",
+                        "answers": {
+                            "a": "Microsoft Edge",
+                            "b": "Mozilla Firefox",
+                            "c": "Safari",
+                            "d": "Google Chrome"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Email addresses are always written in a standard format that includes a ______ then @ and then email provider's domain",
+                        "answers": {
+                            "a": "User Address",
+                            "b": "URL",
+                            "c": "Username",
+                            "d": "None of the above"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Full form of email?",
+                        "answers": {
+                            "a": "Electric Mail",
+                            "b": "Excel Mail",
+                            "c": "Exact Mail",
+                            "d": "Electronic Mail"
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "What is the minimum password we can enter during creating an email account?",
+                        "answers": {
+                            "a": "4",
+                            "b": "10",
+                            "c": "8",
+                            "d": "5"
+                        },
+                        "correctAnswer": "c"
+                    }
+                ]
+            },
+            {
+                "id": 93,
+                "lectureId": "BEG-14-04",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-14\/ebook\/9702bcefc26d6d1a18c4b37f64cb5e9b.pdf"
+            }
+        ]
+    },
+    {
+        "chapterNo": "BEG-15",
+        "title": "Getting Started with the Internet",
+        "ebook": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-15\/ebook\/f2aa498648972a57990169029ec5b32e.pdf",
+        "items": 3,
+        "lecture": [
+            {
+                "id": 94,
+                "lectureId": "BEG-15-01",
+                "content": "video",
+                "title": "ISP",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-15\/videos\/BEG-15-01\/5cda8cbd2f226e342ca591298cb6f5b2.mp4",
+                "description": "ISP (Types of ISP, Examples of ISP)"
+            },
+            {
+                "id": 95,
+                "lectureId": "BEG-15-02",
+                "content": "video",
+                "title": "Hardware",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-15\/videos\/BEG-15-02\/de5067e8f54e823edb67a642895e4915.mp4",
+                "description": "Hardware needed-modem, Router, Switch etc"
+            },
+            {
+                "id": 96,
+                "lectureId": "BEG-15-03",
+                "content": "video",
+                "title": "Cloud",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-15\/videos\/BEG-15-03\/e96104961b826a68ec0a15b94ddf811a.mp4",
+                "description": "Understanding the Cloud (File storage, File Sharing, Backing up data)"
+            },
+            {
+                "id": 97,
+                "content": "quiz",
+                "title": "Quiz 15",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "Full form of ISP?",
+                        "answers": {
+                            "a": "Internet Server Provider",
+                            "b": "Intranet Service Provider",
+                            "c": "Internet Service Provider",
+                            "d": "Internet Service Public"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "A ________ is a networking device that forwards signals between computer and networks.",
+                        "answers": {
+                            "a": "ISP",
+                            "b": "Router",
+                            "c": "Modem",
+                            "d": "None of them"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "A _______ acts as a mediator between the computer and other device. ",
+                        "answers": {
+                            "a": "Switch",
+                            "b": "Modem",
+                            "c": "CPU",
+                            "d": "All of the above"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "From the below option which is not an ISP company?",
+                        "answers": {
+                            "a": "Jio",
+                            "b": "BSNL",
+                            "c": "Infosys",
+                            "d": "Airtel"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Which device is used to transfer data from computer to telephone line?",
+                        "answers": {
+                            "a": "Switch",
+                            "b": "WIFI",
+                            "c": "Modem",
+                            "d": "CPU"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "A _______ maintains a routing table that lists which route should be used to pass information from one device to another.",
+                        "answers": {
+                            "a": "Modem",
+                            "b": "Switch",
+                            "c": "Hub",
+                            "d": "Router"
+                        },
+                        "correctAnswer": "d"
+                    }
+                ]
+            },
+            {
+                "id": 98,
+                "lectureId": "BEG-15-03",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-15\/ebook\/f2aa498648972a57990169029ec5b32e.pdf"
+            }
+        ]
+    },
+    {
+        "chapterNo": "BEG-16",
+        "title": "Browsing the web",
+        "ebook": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-16\/ebook\/0e35dd730fae2db75a2ac331b7619877.pdf",
+        "items": 3,
+        "lecture": [
+            {
+                "id": 99,
+                "lectureId": "BEG-16-01",
+                "content": "video",
+                "title": "Web Browser",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-16\/videos\/BEG-16-01\/d38f4305d757687591fa9b71d3387feb.mp4",
+                "description": "How to use a web browser, Types of Web Browser etc."
+            },
+            {
+                "id": 100,
+                "lectureId": "BEG-16-02",
+                "content": "video",
+                "title": "URLs",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-16\/videos\/BEG-16-02\/66be3dfd7120081ab1d18da860fff14d.mp4",
+                "description": "Understanding URLs, Domain Names, Level of Domain"
+            },
+            {
+                "id": 101,
+                "lectureId": "BEG-16-03",
+                "content": "video",
+                "title": "Search Engine",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-16\/videos\/BEG-16-03\/ee1b49ea7726617baac9d5d310c87d63.mp4",
+                "description": "Using Search Engine "
+            },
+            {
+                "id": 102,
+                "content": "quiz",
+                "title": "Quiz 16",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "What is the full form of URL?",
+                        "answers": {
+                            "a": "Uniform Research Locator",
+                            "b": "Uniform Resource Loader",
+                            "c": "Uniform Resource Locator",
+                            "d": "Unified Resource Locator"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "______ help people find relevant information on the internet?",
+                        "answers": {
+                            "a": "Web",
+                            "b": "URL",
+                            "c": "Search Engines",
+                            "d": "None of the Above"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Full form of WWW?",
+                        "answers": {
+                            "a": "World World Web",
+                            "b": "World Wide Web",
+                            "c": "Wide World Web",
+                            "d": "World Whole Web"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "A _______ is the application which is required to view content of web page?",
+                        "answers": {
+                            "a": "World Wide Web",
+                            "b": "Search Engine",
+                            "c": "Web Browser",
+                            "d": "URL"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Search engines can search ________ type of information?",
+                        "answers": {
+                            "a": "Audio",
+                            "b": "Video",
+                            "c": "Image",
+                            "d": "All of the above"
+                        },
+                        "correctAnswer": "d"
+                    }
+                ]
+            },
+            {
+                "id": 103,
+                "lectureId": "BEG-16-03",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-16\/ebook\/0e35dd730fae2db75a2ac331b7619877.pdf"
+            }
+        ]
+    },
+    {
+        "chapterNo": "BEG-17",
+        "title": "Overview of MS Word",
+        "ebook": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-17\/ebook\/026af39292854e48baa9dcc44118e8ad.pdf",
+        "items": 2,
+        "lecture": [
+            {
+                "id": 104,
+                "lectureId": "BEG-17-01",
+                "content": "video",
+                "title": "Introduction of MS Word (Part 1)",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-17\/videos\/BEG-17-01\/d64f65deef4dbc173ada3578e2158902.mp4",
+                "description": "Definition, File format, Features of MS Word, MS Word Screen, Views and types of view in MS Word. "
+            },
+            {
+                "id": 105,
+                "lectureId": "BEG-17-02",
+                "content": "video",
+                "title": "Introduction of MS Word (Part 2)",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-17\/videos\/BEG-17-02\/a49bba039bdf5b260b7bc7fce0490829.mp4",
+                "description": "Definition, File format, Features of MS Word, MS Word Screen, Views and types of view in MS Word. "
+            },
+            {
+                "id": 106,
+                "content": "quiz",
+                "title": "Quiz 17",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "MS Word 365 more formally used as____________preparation system.",
+                        "answers": {
+                            "a": "Editing",
+                            "b": "Formatting",
+                            "c": "Printing",
+                            "d": "Document"
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "__________ is the application filename of MS Word.",
+                        "answers": {
+                            "a": "word",
+                            "b": "win",
+                            "c": "winword",
+                            "d": "winword.exe"
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "____________ is the default file extension of MS Word.",
+                        "answers": {
+                            "a": ".docx",
+                            "b": ".docm",
+                            "c": ".doc",
+                            "d": ".XPS"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "MS Word is working with ____________ and shape.",
+                        "answers": {
+                            "a": "Text",
+                            "b": "Graphic",
+                            "c": "Picture",
+                            "d": "Table"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "There are ______ tabs in MS Word.",
+                        "answers": {
+                            "a": "6",
+                            "b": "10",
+                            "c": "8",
+                            "d": "5"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "_____________display information about the currently active document.",
+                        "answers": {
+                            "a": "Ruler bar",
+                            "b": "Tabs",
+                            "c": "Status Bar",
+                            "d": "Zoom Slider"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "___________is a tall blinking vertical cursor where text or graphic will be inserted.",
+                        "answers": {
+                            "a": "Mouse Pointer",
+                            "b": "Mini Tool bar",
+                            "c": "Document pane",
+                            "d": "Insertion Point"
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "8.\t___________is refer to the way of viewing a document on the screen.",
+                        "answers": {
+                            "a": "View",
+                            "b": "Home",
+                            "c": "Insert",
+                            "d": "Design"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "__________ is the default view of a document on the screen.",
+                        "answers": {
+                            "a": "Web Layout View",
+                            "b": "Read Mode View",
+                            "c": "Print Layout View",
+                            "d": "Draft View"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "____________________ View does not show headers, footers, footnotes or page layout.",
+                        "answers": {
+                            "a": "Outline View",
+                            "b": "Draft View",
+                            "c": "Read Mode View",
+                            "d": "Web Layout View"
+                        },
+                        "correctAnswer": "b"
+                    }
+                ]
+            },
+            {
+                "id": 107,
+                "lectureId": "BEG-17-02",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-17\/ebook\/026af39292854e48baa9dcc44118e8ad.pdf"
+            }
+        ]
+    },
+    {
+        "chapterNo": "BEG-18",
+        "title": "Formatting",
+        "ebook": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-18\/ebook\/a14060c0bbf6f117456e14b1792e9143.pdf",
+        "items": 15,
+        "lecture": [
+            {
+                "id": 108,
+                "lectureId": "BEG-18-01",
+                "content": "video",
+                "title": "Formatting and Character Formatting (Part 1)",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-18\/videos\/BEG-18-01\/04c36b51b7b1769c9e845959f196e1c8.mp4",
+                "description": "Theory on Formatting and types of formatting, Definition of character formatting (Font Dialog Box i.e. font tab and advance tab.) "
+            },
+            {
+                "id": 109,
+                "lectureId": "BEG-18-02",
+                "content": "video",
+                "title": "Formatting and Character Formatting (Part 2)",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-18\/videos\/BEG-18-02\/18233fa16d7f0e97b75d7ae8b5f6b226.mp4",
+                "description": "Practical on Formatting and types of formatting, Definition of character formatting (Font Dialog Box i.e. font tab and advance tab.) "
+            },
+            {
+                "id": 110,
+                "lectureId": "BEG-18-03",
+                "content": "video",
+                "title": "Formatting and Character Formatting (Part 3)",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-18\/videos\/BEG-18-03\/25dba34d531dd7e57875577081945568.mp4",
+                "description": "Practical on Formatting and types of formatting, Definition of character formatting (Font Dialog Box i.e. font tab and advance tab.) "
+            },
+            {
+                "id": 111,
+                "lectureId": "BEG-18-04",
+                "content": "video",
+                "title": "Formatting and Character Formatting (Part 4)",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-18\/videos\/BEG-18-04\/e831500a30df56617986ae59821d5e96.mp4",
+                "description": "Practical on Formatting and types of formatting, Definition of character formatting (Font Dialog Box i.e. font tab and advance tab.) "
+            },
+            {
+                "id": 112,
+                "lectureId": "BEG-18-04",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-18\/assignment\/BEG-18-04\/3da88fd4dfb9d1ebe6a303bee5d92f51.pdf"
+            },
+            {
+                "id": 113,
+                "lectureId": "BEG-18-05",
+                "content": "video",
+                "title": "Change case",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-18\/videos\/BEG-18-05\/81d75c0aca8f2679460e6acfeae1b4e5.mp4",
+                "description": "How to Change Case , different types of change case."
+            },
+            {
+                "id": 114,
+                "lectureId": "BEG-18-05",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-18\/assignment\/BEG-18-05\/9b62d62eacca1a8ba94b827d9fb39722.pdf"
+            },
+            {
+                "id": 115,
+                "lectureId": "BEG-18-06",
+                "content": "video",
+                "title": "Drop Cap",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-18\/videos\/BEG-18-06\/7e1f74406d5587bb9ad0eca8c96df48a.mp4",
+                "description": "Drop Cap and Position of Drop cap"
+            },
+            {
+                "id": 116,
+                "lectureId": "BEG-18-06",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-18\/assignment\/BEG-18-06\/51ea310e09324b49da4b9887aa8d3b84.pdf"
+            },
+            {
+                "id": 117,
+                "lectureId": "BEG-18-07",
+                "content": "video",
+                "title": "Format Painter",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-18\/videos\/BEG-18-07\/6e45c2f25920dab958badbca04538597.mp4",
+                "description": "what is Format Painter, what is the use of format painter, how to use format painter."
+            },
+            {
+                "id": 118,
+                "lectureId": "BEG-18-07",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-18\/assignment\/BEG-18-07\/36f7b6a411b1b202f0c991b9f14f9ff7.pdf"
+            },
+            {
+                "id": 119,
+                "lectureId": "BEG-18-08",
+                "content": "video",
+                "title": "Paragraph Formatting (Part 1)",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-18\/videos\/BEG-18-08\/94b910206ca0975955802ee8bff2372e.mp4",
+                "description": "Definition of paragraph formatting, paragraph dialog box i.e. alignment, indent and spacing & line and page break tab and Paragraph Border and shading."
+            },
+            {
+                "id": 120,
+                "lectureId": "BEG-18-09",
+                "content": "video",
+                "title": "Paragraph Formatting (Part 2)",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-18\/videos\/BEG-18-09\/8541bc8e897f75b57f6eaa73fb5d8e84.mp4",
+                "description": "Definition of paragraph formatting, paragraph dialog box i.e. alignment, indent and spacing & line and page break tab and Paragraph Border and shading "
+            },
+            {
+                "id": 121,
+                "lectureId": "BEG-18-10",
+                "content": "video",
+                "title": "Paragraph Formatting (Part 3)",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-18\/videos\/BEG-18-10\/34e7dd2d02882ef40ec89216195d8af9.mp4",
+                "description": "Definition of paragraph formatting, paragraph dialog box i.e. alignment, indent and spacing & line and page break tab and Paragraph Border and shading "
+            },
+            {
+                "id": 122,
+                "content": "quiz",
+                "title": "Quiz 18",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "__________is way of editing a document",
+                        "answers": {
+                            "a": "Editing",
+                            "b": "Formatting",
+                            "c": "Document",
+                            "d": "Printing"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "A font dialog box have two tabs that is Font and ______________",
+                        "answers": {
+                            "a": "Insert",
+                            "b": "Home",
+                            "c": "Advance",
+                            "d": "None of the above"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "The Shortcut key for double underline is___________",
+                        "answers": {
+                            "a": "Ctrl+b",
+                            "b": "Ctrl+u",
+                            "c": "Ctrl+shift+d",
+                            "d": "Ctrl+c"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "If_____________ case is applied, so all the text  in a document will display in capital letter.",
+                        "answers": {
+                            "a": "Change Case",
+                            "b": "Lower Case",
+                            "c": "Capitalize each word",
+                            "d": "Upper Case"
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Format Painter is located in ___________ group.",
+                        "answers": {
+                            "a": "Font",
+                            "b": "Paragraph",
+                            "c": "Clipboard",
+                            "d": "None of the above"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "A drop can be drop to a maximum of __________lines.",
+                        "answers": {
+                            "a": "3",
+                            "b": "5",
+                            "c": "9",
+                            "d": "10"
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "The distance between the text and the paragraph is known as _______________",
+                        "answers": {
+                            "a": "Indents",
+                            "b": "Spacing",
+                            "c": "Alignment",
+                            "d": "None of the above"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "There are two type of paragraph spacing _________ and ___________",
+                        "answers": {
+                            "a": "Paragraph and Line",
+                            "b": "Left and Right",
+                            "c": "Top and Bottom",
+                            "d": "Before and After"
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "_____________is the default alignment in a paragraph.",
+                        "answers": {
+                            "a": "Center",
+                            "b": "Right",
+                            "c": "Left",
+                            "d": "Justify"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Paragraph dialog box has to tabs that is Indents and spacing and _____________.",
+                        "answers": {
+                            "a": "Keep with next",
+                            "b": "Keep lines together",
+                            "c": "Line and page break",
+                            "d": "None of the above"
+                        },
+                        "correctAnswer": "c"
+                    }
+                ]
+            },
+            {
+                "id": 123,
+                "lectureId": "BEG-18-11",
+                "content": "video",
+                "title": "Paragraph Formatting (Part 4)",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-18\/videos\/BEG-18-11\/c8dd06e63433303d2e78fbcf38e140e3.mp4",
+                "description": "Practical on paragraph formatting, paragraph dialog box i.e. alignment, indent and spacing & line and page break tab and Paragraph Border and shading "
+            },
+            {
+                "id": 124,
+                "lectureId": "BEG-18-12",
+                "content": "video",
+                "title": "Paragraph Formatting (Part 5)",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-18\/videos\/BEG-18-12\/ed70059ba473bcc92cc6db2b79c9f249.mp4",
+                "description": "Practical on paragraph formatting, paragraph dialog box i.e. alignment, indent and spacing & line and page break tab and Paragraph Border and shading "
+            },
+            {
+                "id": 125,
+                "lectureId": "BEG-18-13",
+                "content": "video",
+                "title": "Paragraph Formatting (Part 6)",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-18\/videos\/BEG-18-13\/4470b1ee38d0b2733e72aa3edb89e34c.mp4",
+                "description": "Practical on paragraph formatting, paragraph dialog box i.e. alignment, indent and spacing & line and page break tab and Paragraph Border and shading "
+            },
+            {
+                "id": 126,
+                "lectureId": "BEG-18-14",
+                "content": "video",
+                "title": "Paragraph Formatting (Part 7)",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-18\/videos\/BEG-18-14\/3f9bf02d77f1cb59d0171744d3bfb539.mp4",
+                "description": "Practical on paragraph formatting, paragraph dialog box i.e. alignment, indent and spacing & line and page break tab and Paragraph Border and shading "
+            },
+            {
+                "id": 127,
+                "lectureId": "BEG-18-15",
+                "content": "video",
+                "title": "Paragraph Formatting (Part 8)",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-18\/videos\/BEG-18-15\/34fcf940b58046cd570afebdf1175957.mp4",
+                "description": "Practical on paragraph formatting, paragraph dialog box i.e. alignment, indent and spacing & line and page break tab and Paragraph Border and shading "
+            },
+            {
+                "id": 128,
+                "lectureId": "BEG-18-15",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-18\/assignment\/BEG-18-15\/b735418a963a7c907ba55fb7669a9091.pdf"
+            },
+            {
+                "id": 129,
+                "lectureId": "BEG-18-15",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-18\/ebook\/a14060c0bbf6f117456e14b1792e9143.pdf"
+            }
+        ]
+    },
+    {
+        "chapterNo": "BEG-19",
+        "title": "Formatting",
+        "ebook": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-19\/ebook\/d8927f2c24c1147c2eb1c34d52c4fc14.pdf",
+        "items": 8,
+        "lecture": [
+            {
+                "id": 130,
+                "lectureId": "BEG-19-01",
+                "content": "video",
+                "title": "Bullets and Numbering, Multi-level list",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-19\/videos\/BEG-19-01\/48bad46eab4acf68296eec3b0dee330f.mp4",
+                "description": "Theory on List and type of list."
+            },
+            {
+                "id": 131,
+                "lectureId": "BEG-19-02",
+                "content": "video",
+                "title": "Practical Bullets and Numbering, Multi-level list Part-1",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-19\/videos\/BEG-19-02\/f336ddadc8f9800ff7217c2e9bbe1fa9.mp4",
+                "description": "Practical on List and type of List  Part-1"
+            },
+            {
+                "id": 132,
+                "lectureId": "BEG-19-03",
+                "content": "video",
+                "title": "Practical Bullets and Numbering, Multi-level list Part-2",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-19\/videos\/BEG-19-03\/bc8a9e3c891fe35e756eefdbb7067b40.mp4",
+                "description": "Practical on List and type of list Part-2"
+            },
+            {
+                "id": 133,
+                "lectureId": "BEG-19-04",
+                "content": "video",
+                "title": "Practical Bullets and Numbering, Multi-level list Part-3",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-19\/videos\/BEG-19-04\/052913db85b2bb0967f6ed0ecce9ab9e.mp4",
+                "description": "Practical on List and type of list Part-3"
+            },
+            {
+                "id": 134,
+                "lectureId": "BEG-19-04",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-19\/assignment\/BEG-19-04\/ab1bcd5f97ce9b622837776c80c6b483.pdf"
+            },
+            {
+                "id": 135,
+                "lectureId": "BEG-19-05",
+                "content": "video",
+                "title": "Tap Stop, Types of tab Stop.",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-19\/videos\/BEG-19-05\/fcae705d6b7738cfebbcfbfaa155233e.mp4",
+                "description": "Theory on Tab Stop, Various Types of Tab Stop"
+            },
+            {
+                "id": 136,
+                "lectureId": "BEG-19-06",
+                "content": "video",
+                "title": "Practical on Tap Stop, Types of tab Stop.",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-19\/videos\/BEG-19-06\/8abb3af77d11c14a0977dea1685cb408.mp4",
+                "description": "Practical on Tab stop Part-1"
+            },
+            {
+                "id": 137,
+                "lectureId": "BEG-19-07",
+                "content": "video",
+                "title": "Practical on Tap Stop, Types of tab Stop Part 2",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-19\/videos\/BEG-19-07\/09c6665a1d22e0a0975aec1209f97d29.mp4",
+                "description": "Practical on Tab Stop Part-2"
+            },
+            {
+                "id": 138,
+                "lectureId": "BEG-19-08",
+                "content": "video",
+                "title": "Practical on Tap Stop, Types of tab Stop Part 3",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-19\/videos\/BEG-19-08\/c77fd3eb97afe5a52765bb5c4bf20828.mp4",
+                "description": "Practical on Tap Stop, Types of Tab Stop Part 3."
+            },
+            {
+                "id": 139,
+                "lectureId": "BEG-19-08",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-19\/assignment\/BEG-19-08\/e36f9882041b7be9c1cf4293abd4ac3c.pdf"
+            },
+            {
+                "id": 140,
+                "content": "quiz",
+                "title": "Quiz 19",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "The list of the text in the document can be outline in \u2026\u2026\u2026\u2026\u2026 ways.",
+                        "answers": {
+                            "a": "3",
+                            "b": "2",
+                            "c": "5",
+                            "d": "4"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026. Is the specific list of item in a document which is commonly formatted with a hanging indent.",
+                        "answers": {
+                            "a": "Unordered and Ordered List\t",
+                            "b": "Numbered",
+                            "c": "Bulleted",
+                            "d": "All of the above"
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "There are \u2026\u2026\u2026\u2026.. types of Bulleted and Numbered list",
+                        "answers": {
+                            "a": "5",
+                            "b": "2",
+                            "c": "4",
+                            "d": "3"
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Mainly there are \u2026\u2026\u2026\u2026\u2026\u2026.. ways of setting Bullets or Numbers into a list.",
+                        "answers": {
+                            "a": "3",
+                            "b": "2",
+                            "c": "5",
+                            "d": "1"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. is the list which mixes both bullets and numbering.",
+                        "answers": {
+                            "a": "Ordered List",
+                            "b": "Numbered List",
+                            "c": "Multilevel List",
+                            "d": "Bullets"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Tab stop is another attribute of a\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+                        "answers": {
+                            "a": "Text",
+                            "b": "Paragraph",
+                            "c": "Table",
+                            "d": "None of these"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "After applying the tab stops in the document then the location is reached by pressing the\u2026\u2026\u2026\u2026.. key from the keyboard.",
+                        "answers": {
+                            "a": "Ctrl Key",
+                            "b": "Enter Key",
+                            "c": "Tab Key",
+                            "d": "Shift Key"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "\u2026\u2026\u2026\u2026\u2026\u2026.. is the quick way of moving words across the page instead of using the space bar repeatedly.",
+                        "answers": {
+                            "a": "Paragraph Formatting",
+                            "b": "Picture Formatting",
+                            "c": "Tab Stops",
+                            "d": "Character"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "The default tab stops remain at fixed distances in the ruler i.e. at a distance of \u2026\u2026\u2026.",
+                        "answers": {
+                            "a": "0.7",
+                            "b": "0.5",
+                            "c": "1",
+                            "d": "1.5"
+                        },
+                        "correctAnswer": "b"
+                    }
+                ]
+            },
+            {
+                "id": 141,
+                "lectureId": "BEG-19-08",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-19\/ebook\/d8927f2c24c1147c2eb1c34d52c4fc14.pdf"
+            }
+        ]
+    },
+    {
+        "chapterNo": "BEG-20",
+        "title": "Page Setup",
+        "ebook": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-20\/ebook\/385176eb3a31fb8e257524bddff22e72.pdf",
+        "items": 4,
+        "lecture": [
+            {
+                "id": 142,
+                "lectureId": "BEG-20-01",
+                "content": "video",
+                "title": "Theory on Page set up and Page Formatting Part-1",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-20\/videos\/BEG-20-01\/3ef66b6c0dc2ddc53b3bbb5299de7f83.mp4",
+                "description": "Theory on Page Set up, properties of a page set up and Page Formatting i.e. page color, page border and watermark."
+            },
+            {
+                "id": 143,
+                "lectureId": "BEG-20-02",
+                "content": "video",
+                "title": "Theory on Page set up and Page Formatting Part-2",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-20\/videos\/BEG-20-02\/92720a4361e2697cb750d53f15561aef.mp4",
+                "description": "Theory on Page Set up, properties of a page set up and Page Formatting i.e. page color, page border and watermark."
+            },
+            {
+                "id": 144,
+                "lectureId": "BEG-20-03",
+                "content": "video",
+                "title": "Practical on Page set up and Page Formatting Part-1",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-20\/videos\/BEG-20-03\/1cb691a26eef1eba4ef31dc2031e67c3.mp4",
+                "description": "Practical on Page Set up, properties of a page set up and Page Formatting i.e. page color, page border and watermark."
+            },
+            {
+                "id": 145,
+                "lectureId": "BEG-20-04",
+                "content": "video",
+                "title": "Practical on Page set up and Page Formatting Part-2",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-20\/videos\/BEG-20-04\/60d063553ac49660ef5ebe558964e177.mp4",
+                "description": "Practical on Page Set up, properties of a page set up and Page Formatting i.e. page color, page border and watermark."
+            },
+            {
+                "id": 146,
+                "lectureId": "BEG-20-04",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-20\/assignment\/BEG-20-04\/b2a0d5e380ce0323bf13cfaed9ab075a.pdf"
+            },
+            {
+                "id": 147,
+                "content": "quiz",
+                "title": "Quiz 20",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "Formatting of a document is never complete without a proper _________",
+                        "answers": {
+                            "a": "Page Layout",
+                            "b": "Margin",
+                            "c": "Page Setup",
+                            "d": "Section Break"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "This break creates a new section without affecting page break.",
+                        "answers": {
+                            "a": "Odd Page",
+                            "b": "Continuous",
+                            "c": "Even Page",
+                            "d": "Next Page"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "A margin setting that adds extra space to the left or top margin is called ______ ",
+                        "answers": {
+                            "a": "Gutter Margin",
+                            "b": "Page Layout",
+                            "c": "Margin",
+                            "d": "Section Break"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "A portion of a document which is set with certain page formatting option",
+                        "answers": {
+                            "a": "Insert Page",
+                            "b": "Margin",
+                            "c": "Page Setup",
+                            "d": "Section"
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Shortcut key to insert a non breaking space",
+                        "answers": {
+                            "a": "Ctrl+Space",
+                            "b": "Shift+Space",
+                            "c": "Ctrl+Shift+Space",
+                            "d": "Ctrl+Enter"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Microsoft word automatically insert _______ before and after the pages",
+                        "answers": {
+                            "a": "Page Break",
+                            "b": "Section Break",
+                            "c": "Paper Size",
+                            "d": "Page Setup"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "The default paper size of the document is _______",
+                        "answers": {
+                            "a": "Legal",
+                            "b": "A3",
+                            "c": "A4",
+                            "d": "Letter"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Page setup can be done from with tabs",
+                        "answers": {
+                            "a": "Insert",
+                            "b": "Help",
+                            "c": "Design",
+                            "d": "Layout"
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "________are the text that appear behind the document.",
+                        "answers": {
+                            "a": "Page Border",
+                            "b": "Watermarks",
+                            "c": "Page Orientation",
+                            "d": "Both A and B"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Page Background group are in___________ tab",
+                        "answers": {
+                            "a": "Insert",
+                            "b": "Layout",
+                            "c": "Design",
+                            "d": "View"
+                        },
+                        "correctAnswer": "c"
+                    }
+                ]
+            },
+            {
+                "id": 148,
+                "lectureId": "BEG-20-04",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-20\/ebook\/385176eb3a31fb8e257524bddff22e72.pdf"
+            }
+        ]
+    },
+    {
+        "chapterNo": "BEG-21",
+        "title": "Symbol",
+        "ebook": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-21\/ebook\/7fed68b70a025b544762da7f7e8e9b55.pdf",
+        "items": 5,
+        "lecture": [
+            {
+                "id": 149,
+                "lectureId": "BEG-21-01",
+                "content": "video",
+                "title": "Various Symbols Theory",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-21\/videos\/BEG-21-01\/8b2c2734baa079894975eea9805ffb51.mp4",
+                "description": "Theory on Various Symbol."
+            },
+            {
+                "id": 150,
+                "lectureId": "BEG-21-02",
+                "content": "video",
+                "title": "Various Symbols Practical Part 1",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-21\/videos\/BEG-21-02\/633edf5ad063c18a5319acd2490c167d.mp4",
+                "description": "Various Symbol Practical"
+            },
+            {
+                "id": 151,
+                "lectureId": "BEG-21-03",
+                "content": "video",
+                "title": "Various Symbols Practical Part 2",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-21\/videos\/BEG-21-03\/b3e1da20c3599521cf1afca3bcb188fa.mp4",
+                "description": "Various Symbol"
+            },
+            {
+                "id": 152,
+                "lectureId": "BEG-21-04",
+                "content": "video",
+                "title": "Various Symbols Practical Part 3",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-21\/videos\/BEG-21-04\/dbae6b3eaa17754e14a8b5d8ac7d102f.mp4",
+                "description": "Various Symbol"
+            },
+            {
+                "id": 153,
+                "lectureId": "BEG-21-05",
+                "content": "video",
+                "title": "Various Symbols Practical Part 4",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-21\/videos\/BEG-21-05\/ebb6b46247451834e637ab835cf234b7.mp4",
+                "description": "Various Symbol"
+            },
+            {
+                "id": 154,
+                "lectureId": "BEG-21-05",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-21\/assignment\/BEG-21-05\/a0c06e2b075d76f19c5de656bb20314c.pdf"
+            },
+            {
+                "id": 155,
+                "content": "quiz",
+                "title": "Quiz 21",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "Symbols are also known as ____________",
+                        "answers": {
+                            "a": "Fonts",
+                            "b": "Equations",
+                            "c": "Bookmark",
+                            "d": "Buttons"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Symbol button is present in _______________ tab.",
+                        "answers": {
+                            "a": "Home Tab",
+                            "b": "Insert Tab",
+                            "c": "Layout Tab",
+                            "d": "Help Tab"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Symbol can be inserted in ______________",
+                        "answers": {
+                            "a": "Paragraph",
+                            "b": "Sentences",
+                            "c": "Between Words",
+                            "d": "All of the above"
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "___________is the shortcut key to increase the size of the symbol.",
+                        "answers": {
+                            "a": "Ctrl+]",
+                            "b": "Ctrl+shift+]",
+                            "c": "Ctrl+[\t",
+                            "d": "Ctrl+}"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "A user can change the color of the symbol from__________.",
+                        "answers": {
+                            "a": "Highlight color",
+                            "b": "Text effect\t",
+                            "c": "Font color ",
+                            "d": "Both A and C"
+                        },
+                        "correctAnswer": "c"
+                    }
+                ]
+            },
+            {
+                "id": 156,
+                "lectureId": "BEG-21-05",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-21\/ebook\/7fed68b70a025b544762da7f7e8e9b55.pdf"
+            }
+        ]
+    },
+    {
+        "chapterNo": "BEG-22",
+        "title": "Drawing Object",
+        "ebook": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-22\/ebook\/450c6a2eb99ecf41da4d71093d2495fe.pdf",
+        "items": 16,
+        "lecture": [
+            {
+                "id": 157,
+                "lectureId": "BEG-22-01",
+                "content": "video",
+                "title": "Drawing Object Theory",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-22\/videos\/BEG-22-01\/02e55de004f0f1959ff4e681a562da90.mp4",
+                "description": "Definition of Drawing Object and types."
+            },
+            {
+                "id": 158,
+                "lectureId": "BEG-22-02",
+                "content": "video",
+                "title": "Drawing Object Practical Part 1",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-22\/videos\/BEG-22-02\/ba5b2914e65d4d4c2e9ca30cad82f23c.mp4",
+                "description": "Practical on Different Types of Drawing Object."
+            },
+            {
+                "id": 159,
+                "lectureId": "BEG-22-03",
+                "content": "video",
+                "title": "Drawing Object Practical Part 2",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-22\/videos\/BEG-22-03\/c47d0a98c0df04ca8cbbe37c9980ffe3.mp4",
+                "description": "Practical on different types of Drawing Object (Part-1)"
+            },
+            {
+                "id": 160,
+                "lectureId": "BEG-22-04",
+                "content": "video",
+                "title": "Drawing Object Practical Part 3",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-22\/videos\/BEG-22-04\/caf9eda12899337ecfa796819f1e7930.mp4",
+                "description": "Practical on Drawing Object "
+            },
+            {
+                "id": 161,
+                "lectureId": "BEG-22-05",
+                "content": "video",
+                "title": "Drawing Object Practical Part 4",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-22\/videos\/BEG-22-05\/f27e0c6a9bff8bbfabed796745071089.mp4",
+                "description": "Practical on Drawing Object."
+            },
+            {
+                "id": 162,
+                "lectureId": "BEG-22-05",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-22\/assignment\/BEG-22-05\/574465d62abba459c2bd047437211cdd.pdf"
+            },
+            {
+                "id": 163,
+                "lectureId": "BEG-22-06",
+                "content": "video",
+                "title": "Special Drawing object Theory",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-22\/videos\/BEG-22-06\/e3ea2e4d0586e7bf7143e93627bfbb33.mp4",
+                "description": "Special drawing objects like Callout text box and word art. "
+            },
+            {
+                "id": 164,
+                "lectureId": "BEG-22-07",
+                "content": "video",
+                "title": "Special Drawing object Practical Part 1",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-22\/videos\/BEG-22-07\/c2d91dae779ff37807c4822c4a1497ea.mp4",
+                "description": "Practical on Special drawing objects like Callout text box and word art. "
+            },
+            {
+                "id": 165,
+                "lectureId": "BEG-22-08",
+                "content": "video",
+                "title": "Special Drawing object Practical Part 2",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-22\/videos\/BEG-22-08\/989f30d6c993d10e2580d055c7b9897e.mp4",
+                "description": "Practical on Special drawing objects"
+            },
+            {
+                "id": 166,
+                "lectureId": "BEG-22-09",
+                "content": "video",
+                "title": "Special Drawing object Practical Part 3",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-22\/videos\/BEG-22-09\/96cb639b60f078e386263bd49a08d791.mp4",
+                "description": "Practical on Callout text box and word art. "
+            },
+            {
+                "id": 167,
+                "lectureId": "BEG-22-10",
+                "content": "video",
+                "title": "Special Drawing object Practical Part 4",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-22\/videos\/BEG-22-10\/f42c492f70c04f29c6a0770f2b6d864b.mp4",
+                "description": "Practical Callout text box and word art. "
+            },
+            {
+                "id": 168,
+                "lectureId": "BEG-22-10",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-22\/assignment\/BEG-22-10\/2e78776dad4eb6002e3896f8fcd483ae.pdf"
+            },
+            {
+                "id": 169,
+                "content": "quiz",
+                "title": "Quiz 22",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "Ms Word deals mainly with two kinds of graphic that is _______________ and ____________ image.",
+                        "answers": {
+                            "a": "Table and shape",
+                            "b": "Picture and grouping ",
+                            "c": "Bitmap and vector ",
+                            "d": "Both A and C"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "________________fill is a gradual blending together of two or more fill colors.",
+                        "answers": {
+                            "a": "Single Color\t",
+                            "b": "Pattern ",
+                            "c": "Gradient",
+                            "d": "Picture"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "How many resize handle are there?",
+                        "answers": {
+                            "a": "6",
+                            "b": "10",
+                            "c": "8",
+                            "d": "None of the above"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "When the user applies _______wrapping style a square area is left blank to accommodate the object, no matter what the shape of the object is. ",
+                        "answers": {
+                            "a": "Square",
+                            "b": "Tight",
+                            "c": "In Line with Text",
+                            "d": "None of the above"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "A special drawing object contain _______within.",
+                        "answers": {
+                            "a": "Shape",
+                            "b": "Text",
+                            "c": "Fill",
+                            "d": "Both B and C"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "__________is a decorative text in Ms Word.",
+                        "answers": {
+                            "a": "Text effect",
+                            "b": "Transform",
+                            "c": "Word Art",
+                            "d": "None of the above"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Pictures can be inserted into the MS Word documents either from ____________or from the file.",
+                        "answers": {
+                            "a": "Online Picture\t",
+                            "b": "Download",
+                            "c": "Sample Picture",
+                            "d": "Both A and C"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Using ___________command a user can Sharpen or soften the picture.",
+                        "answers": {
+                            "a": "Color",
+                            "b": "Artistic Effect",
+                            "c": "Picture Style Group",
+                            "d": "Correction"
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Picture style group contains many different __________style. ",
+                        "answers": {
+                            "a": "Picture Border",
+                            "b": "Picture Effect",
+                            "c": "Predefined",
+                            "d": "None of the above"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Captions are used to describe the ___________.",
+                        "answers": {
+                            "a": "Figures or the Table\t",
+                            "b": "Words or the Sentences",
+                            "c": "Character or Paragraph",
+                            "d": "None of the above"
+                        },
+                        "correctAnswer": "a"
+                    }
+                ]
+            },
+            {
+                "id": 170,
+                "lectureId": "BEG-22-11",
+                "content": "video",
+                "title": "Picture and Caption Theory Part 1",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-22\/videos\/BEG-22-11\/eb53c94a444d98efd84e2bedc6478680.mp4",
+                "description": "Theory on Picture and Picture Caption "
+            },
+            {
+                "id": 171,
+                "lectureId": "BEG-22-12",
+                "content": "video",
+                "title": "Picture and Caption Theory Part 2",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-22\/videos\/BEG-22-12\/9587022eddd0c2c346019115bbf7b89f.mp4",
+                "description": "Theory on Picture and picture Caption "
+            },
+            {
+                "id": 172,
+                "lectureId": "BEG-22-13",
+                "content": "video",
+                "title": "Picture and Caption Practical Part 1",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-22\/videos\/BEG-22-13\/62eb66caf779a3476d65ad7837d584c2.mp4",
+                "description": "Practical on Picture and Picture Caption "
+            },
+            {
+                "id": 173,
+                "lectureId": "BEG-22-14",
+                "content": "video",
+                "title": "Picture and Caption Practical Part 2",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-22\/videos\/BEG-22-14\/754b896bf071fcac5bf1469883efd8ab.mp4",
+                "description": "Practical on Picture and picture Caption "
+            },
+            {
+                "id": 174,
+                "lectureId": "BEG-22-15",
+                "content": "video",
+                "title": "Picture and Caption Practical Part 3",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-22\/videos\/BEG-22-15\/dd266be987544e2ad552675ebf3ef69c.mp4",
+                "description": "Practical on Picture and picture Caption "
+            },
+            {
+                "id": 175,
+                "lectureId": "BEG-22-16",
+                "content": "video",
+                "title": "Picture and Caption Practical Part 4",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-22\/videos\/BEG-22-16\/7df7cfea48ab4792f79d8356f363ed75.mp4",
+                "description": "Practical on Picture and picture Caption "
+            },
+            {
+                "id": 176,
+                "lectureId": "BEG-22-16",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-22\/assignment\/BEG-22-16\/be1dbce9c994ff96c1f631e7403e515f.pdf"
+            },
+            {
+                "id": 177,
+                "lectureId": "BEG-22-16",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-22\/ebook\/450c6a2eb99ecf41da4d71093d2495fe.pdf"
+            }
+        ]
+    },
+    {
+        "chapterNo": "BEG-23",
+        "title": "Columns",
+        "ebook": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-23\/ebook\/e048b47c2fcbcbe345aaf176c4b87df4.pdf",
+        "items": 4,
+        "lecture": [
+            {
+                "id": 178,
+                "lectureId": "BEG-23-01",
+                "content": "video",
+                "title": "Columns Theory",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-23\/videos\/BEG-23-01\/cba83c68a499e386a352be057912a048.mp4",
+                "description": "Theory on Columns and presets\/types of column. "
+            },
+            {
+                "id": 179,
+                "lectureId": "BEG-23-02",
+                "content": "video",
+                "title": "Columns Practical Part 1",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-23\/videos\/BEG-23-02\/8b1f6a1fd62f8982e699623acdafe12d.mp4",
+                "description": "Practical work on Columns and presets\/types of column. "
+            },
+            {
+                "id": 180,
+                "lectureId": "BEG-23-03",
+                "content": "video",
+                "title": "Columns Practical Part 2",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-23\/videos\/BEG-23-03\/0be186a84279c81f2b6b7c5c27fd979c.mp4",
+                "description": "Practical on Columns and presets\/types of column. "
+            },
+            {
+                "id": 181,
+                "lectureId": "BEG-23-04",
+                "content": "video",
+                "title": "Columns Practical Part 3",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-23\/videos\/BEG-23-04\/bd43f7c8194262867ee2943985edb77d.mp4",
+                "description": "Practical on Columns and presets"
+            },
+            {
+                "id": 182,
+                "lectureId": "BEG-23-04",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-23\/assignment\/BEG-23-04\/79b8676f0c3ad0bd7aa3617645ac2688.pdf"
+            },
+            {
+                "id": 183,
+                "content": "quiz",
+                "title": "Quiz 23",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "___________is often used in Newspaper, Magazines and Pamphlets.",
+                        "answers": {
+                            "a": "Table",
+                            "b": "Formatting",
+                            "c": "Picture",
+                            "d": "Columns"
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "The default columns is ________",
+                        "answers": {
+                            "a": "One",
+                            "b": "Three",
+                            "c": "Left",
+                            "d": "None of the above"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "If _________option is select, then a vertical line between the columns will appeared.",
+                        "answers": {
+                            "a": "Number of columns\t",
+                            "b": "Line Between",
+                            "c": "Width and Spacing",
+                            "d": "None of the above"
+                        },
+                        "correctAnswer": "b"
+                    }
+                ]
+            },
+            {
+                "id": 184,
+                "lectureId": "BEG-23-04",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-23\/ebook\/e048b47c2fcbcbe345aaf176c4b87df4.pdf"
+            }
+        ]
+    },
+    {
+        "chapterNo": "BEG-24",
+        "title": "Text in Tables",
+        "ebook": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-24\/ebook\/8b074ace767d55cc366e83da6639bb17.pdf",
+        "items": 6,
+        "lecture": [
+            {
+                "id": 185,
+                "lectureId": "BEG-24-01",
+                "content": "video",
+                "title": "Tables Theory Part 1",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-24\/videos\/BEG-24-01\/be0eef34cdc0a1aa3ebf2b3950c5863c.mp4",
+                "description": "Definition, parts of tables, Table Properties (Cell Alignment, merge cell, split cell and sorting), Table border and table shading and Table style. "
+            },
+            {
+                "id": 186,
+                "lectureId": "BEG-24-02",
+                "content": "video",
+                "title": "Tables Theory Part 2",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-24\/videos\/BEG-24-02\/767610895fb402e12a6da63de66cd66e.mp4",
+                "description": "Definition, parts of tables, Table Properties (Cell Alignment, merge cell, split cell and sorting), Table border and table shading and Table style."
+            },
+            {
+                "id": 187,
+                "lectureId": "BEG-24-03",
+                "content": "video",
+                "title": "Tables Practical Part-1",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-24\/videos\/BEG-24-03\/401784877e7338e2613c03a30d7d1944.mp4",
+                "description": "Definition, parts of tables, Table Properties (Cell Alignment, merge cell, split cell and sorting), Table border and table shading and Table style. "
+            },
+            {
+                "id": 188,
+                "lectureId": "BEG-24-04",
+                "content": "video",
+                "title": "Tables Practical Part-2",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-24\/videos\/BEG-24-04\/ab3f26b19fe7693be3520c8311e366aa.mp4",
+                "description": "Practical on Definition, parts of tables, Table Properties (Cell Alignment, merge cell, split cell and sorting), Table border and table shading and Table style. "
+            },
+            {
+                "id": 189,
+                "lectureId": "BEG-24-05",
+                "content": "video",
+                "title": "Tables Practical Part-3",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-24\/videos\/BEG-24-05\/2b6dc32ac822b5f93db95dbd9073fed0.mp4",
+                "description": "Practical on Definition, parts of tables, Table Properties (Cell Alignment, merge cell, split cell and sorting), Table border and table shading and Table style. "
+            },
+            {
+                "id": 190,
+                "lectureId": "BEG-24-06",
+                "content": "video",
+                "title": "Tables Practical Part-4",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-24\/videos\/BEG-24-06\/bade8abb2c0b1b683b26ef82e75b8609.mp4",
+                "description": "Practical on Definition, parts of tables, Table Properties (Cell Alignment, merge cell, split cell and sorting), Table border and table shading and Table style. "
+            },
+            {
+                "id": 191,
+                "lectureId": "BEG-24-06",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-24\/assignment\/BEG-24-06\/4b8261a5faed91f0bb59908214a40be3.pdf"
+            },
+            {
+                "id": 192,
+                "content": "quiz",
+                "title": "Quiz 24",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "____________are often used to organize and present information accurately.",
+                        "answers": {
+                            "a": "Table",
+                            "b": "Rows",
+                            "c": "Cells",
+                            "d": "None of the above"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "A Table is a grid of text made up of rows and _____________.",
+                        "answers": {
+                            "a": "Cells",
+                            "b": "Columns",
+                            "c": "Graphics",
+                            "d": "Both A and B"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "___________are a set of cells that are horizontally arranged in a table.",
+                        "answers": {
+                            "a": "Cells",
+                            "b": "Rows",
+                            "c": "Columns",
+                            "d": "None of the above"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "The intersection of rows and columns is known as ____________.",
+                        "answers": {
+                            "a": "Tables",
+                            "b": "Rows",
+                            "c": "Cells",
+                            "d": "Columns"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "There are ___________ ways that a user can create a table.",
+                        "answers": {
+                            "a": "one",
+                            "b": "Three",
+                            "c": "Four",
+                            "d": "Two"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": ".______________option to create a table that fits within the page margins and is divided into columns of equal size.",
+                        "answers": {
+                            "a": "Auto Fit to Window",
+                            "b": "Auto Fit to Content",
+                            "c": "Fixed Column Width",
+                            "d": "Auto Fit Behavior "
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Two or more cells in a column or in a row that are combined to make it behave as one single cell are known as___________",
+                        "answers": {
+                            "a": "Sorting",
+                            "b": "Table Style",
+                            "c": "Splitting",
+                            "d": "Merging"
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "A moving handle of a table has ____________side moving arrow. ",
+                        "answers": {
+                            "a": "3",
+                            "b": "4",
+                            "c": "5",
+                            "d": "6"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "A data in a table can be arrange in Ascending and descending order by using ______________command.",
+                        "answers": {
+                            "a": "Table Style",
+                            "b": "Text Direction",
+                            "c": "Sorting",
+                            "d": "Auto fit"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Border and shading can be done in detail from table tools ____________tab",
+                        "answers": {
+                            "a": "Design",
+                            "b": "Border Group",
+                            "c": "Layout",
+                            "d": "Border painter"
+                        },
+                        "correctAnswer": "a"
+                    }
+                ]
+            },
+            {
+                "id": 193,
+                "lectureId": "BEG-24-06",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-24\/ebook\/8b074ace767d55cc366e83da6639bb17.pdf"
+            }
+        ]
+    },
+    {
+        "chapterNo": "BEG-25",
+        "title": "Header and Footer",
+        "ebook": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-25\/ebook\/db841f200a509de0754f59f7a4959188.pdf",
+        "items": 4,
+        "lecture": [
+            {
+                "id": 194,
+                "lectureId": "BEG-25-01",
+                "content": "video",
+                "title": "Header and Footer Theory",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-25\/videos\/BEG-25-01\/e85f2d321af4d63e8cb3242026d35f3f.mp4",
+                "description": "Definition and Types of Header and Footer "
+            },
+            {
+                "id": 195,
+                "lectureId": "BEG-25-02",
+                "content": "video",
+                "title": "Header and Footer Practical Part 1",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-25\/videos\/BEG-25-02\/28c268309d5270a8c001aded7be6ab20.mp4",
+                "description": "Practical on Different Types of Header and Footer "
+            },
+            {
+                "id": 196,
+                "lectureId": "BEG-25-03",
+                "content": "video",
+                "title": "Header and Footer Practical Part 2",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-25\/videos\/BEG-25-03\/22e498c9841a9424794e4bf3a3de7bcb.mp4",
+                "description": "Practical on Different Types of Header and Footer."
+            },
+            {
+                "id": 197,
+                "lectureId": "BEG-25-04",
+                "content": "video",
+                "title": "Header and Footer Practical Part 3",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-25\/videos\/BEG-25-04\/39a8d58133c2ded1a37c87cf59d0b99e.mp4",
+                "description": "Practical on Different Types of Header and Footer "
+            },
+            {
+                "id": 198,
+                "lectureId": "BEG-25-04",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-25\/assignment\/BEG-25-04\/67d8873e99c6e272d818f73469c30e2e.pdf"
+            },
+            {
+                "id": 199,
+                "content": "quiz",
+                "title": "Quiz 25",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "A user can display information on every page of the document by using.",
+                        "answers": {
+                            "a": "Insert Tab",
+                            "b": "Header and Footer",
+                            "c": "Navigation",
+                            "d": "Page Border"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "In which tab to click to open the header or footer area on a page.",
+                        "answers": {
+                            "a": "Layout",
+                            "b": "Navigation",
+                            "c": "Insert",
+                            "d": "Review"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "___________ can be used to automatically number each page in a document.",
+                        "answers": {
+                            "a": "Page Number",
+                            "b": "Option Group",
+                            "c": "Header or Footer ",
+                            "d": "None of the above"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "Press __________ to select all the content of the header or footer.",
+                        "answers": {
+                            "a": "Ctrl = A",
+                            "b": "Ctrl + F1",
+                            "c": "Ctrl + A",
+                            "d": "Shift + A"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "___________ is the Short cut key to insert pages in MS word",
+                        "answers": {
+                            "a": "Ctrl + Enter",
+                            "b": "Ctrl = Enter",
+                            "c": "Ctrl + Shift + Enter",
+                            "d": "Shift + Enter"
+                        },
+                        "correctAnswer": "a"
+                    }
+                ]
+            },
+            {
+                "id": 200,
+                "lectureId": "BEG-25-04",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-25\/ebook\/db841f200a509de0754f59f7a4959188.pdf"
+            }
+        ]
+    },
+    {
+        "chapterNo": "BEG-26",
+        "title": "Mail Merge",
+        "ebook": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-26\/ebook\/4e0546128b52e28c5b0353ca3df4e85a.pdf",
+        "items": 5,
+        "lecture": [
+            {
+                "id": 201,
+                "lectureId": "BEG-26-01",
+                "content": "video",
+                "title": "Mail Merge Theory",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-26\/videos\/BEG-26-01\/52d9fe00cc493441353b000aebcd7ca4.mp4",
+                "description": "Theory on Definition, Components of mail merge (main documents, data source and form letter)"
+            },
+            {
+                "id": 202,
+                "lectureId": "BEG-26-02",
+                "content": "video",
+                "title": "Mail Merge Practical Part 1",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-26\/videos\/BEG-26-02\/18a8946d1f9aa858d445721ebb18da5b.mp4",
+                "description": "Practical on Definition, Components of mail merge (main documents, data source and form letter) "
+            },
+            {
+                "id": 203,
+                "lectureId": "BEG-26-03",
+                "content": "video",
+                "title": "Mail Merge Practical Part 2",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-26\/videos\/BEG-26-03\/9fdc93dfbb79bdda15ffb20a8b22017c.mp4",
+                "description": "Practical on mail merge (main documents, data source and form letter)."
+            },
+            {
+                "id": 204,
+                "lectureId": "BEG-26-04",
+                "content": "video",
+                "title": "Mail Merge Practical Part 3",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-26\/videos\/BEG-26-04\/5b12368ef144a38769b0ff288c447006.mp4",
+                "description": "Practical on mail merge (main documents, data source and form letter)."
+            },
+            {
+                "id": 205,
+                "lectureId": "BEG-26-05",
+                "content": "video",
+                "title": "Mail Merge Practical Part 4",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-26\/videos\/BEG-26-05\/e2a008505681d4e214ca24d0494962c9.mp4",
+                "description": "Practical on mail merge (main documents, data source and form letter) "
+            },
+            {
+                "id": 206,
+                "lectureId": "BEG-26-05",
+                "content": "assignment",
+                "title": "Assignment",
+                "description": "Assignment",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-26\/assignment\/BEG-26-05\/c26e7f98e20514db65b04dccdaa78275.pdf"
+            },
+            {
+                "id": 207,
+                "content": "quiz",
+                "title": "Quiz 26",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "Mail Merge is also known as_____________",
+                        "answers": {
+                            "a": "Mailing",
+                            "b": "Drafting",
+                            "c": "Batch Mailings",
+                            "d": "common letter"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Mail Merge cannot be applied____________",
+                        "answers": {
+                            "a": "Table",
+                            "b": "Document\t",
+                            "c": "Letter",
+                            "d": "Envelop"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "To set up mail merge one needs to prepare main document, data source and ___________",
+                        "answers": {
+                            "a": "different letter",
+                            "b": "Form letter\t",
+                            "c": "Mailing Tabs",
+                            "d": "Formatting"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "In mail merge, main document means___________",
+                        "answers": {
+                            "a": "Header Row",
+                            "b": "Fields name",
+                            "c": "Merge document",
+                            "d": "Common letter "
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Data Source is also called the ________",
+                        "answers": {
+                            "a": "Data File",
+                            "b": "Data ",
+                            "c": "Insert merge field",
+                            "d": "None of the above"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "______________ is the resultant document of the mail merge operations.",
+                        "answers": {
+                            "a": "Main document",
+                            "b": "Merge Field",
+                            "c": "Form letter",
+                            "d": " Mailing"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "A __________ and ______________ are merged to form a complete ready letter to be printed or to be send via email.",
+                        "answers": {
+                            "a": "Form letter and Merge field",
+                            "b": "Form letter and Data file",
+                            "c": "Mailing and Form letter",
+                            "d": "Both A and B"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Mail Merge can be done from ___________Tabs",
+                        "answers": {
+                            "a": "Layout",
+                            "b": "Form letter",
+                            "c": "Mailing",
+                            "d": "Insert"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Field name indicate the type of ________in each column.",
+                        "answers": {
+                            "a": "Records",
+                            "b": "Information",
+                            "c": "Data file",
+                            "d": "Both A and B"
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Each field name must be unique and must begin with an ______________",
+                        "answers": {
+                            "a": "Number\/Letter",
+                            "b": "Alphabet\/Number",
+                            "c": "Alphabet \/letter",
+                            "d": "None of the above"
+                        },
+                        "correctAnswer": "c"
+                    }
+                ]
+            },
+            {
+                "id": 208,
+                "lectureId": "BEG-26-05",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-26\/ebook\/4e0546128b52e28c5b0353ca3df4e85a.pdf"
+            }
+        ]
+    },
+    {
+        "chapterNo": "BEG-27",
+        "title": "Table of Content",
+        "ebook": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-27\/ebook\/660cb06a41b71fc9de8f9c118b41a40b.pdf",
+        "items": 2,
+        "lecture": [
+            {
+                "id": 209,
+                "lectureId": "BEG-27-01",
+                "content": "video",
+                "title": "Table of Content and Heading style Theory",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-27\/videos\/BEG-27-01\/12640ddc629a33f4c5c68e6ca8830fe1.mp4",
+                "description": "Theory on Table of Content and Heading Style "
+            },
+            {
+                "id": 210,
+                "lectureId": "BEG-27-02",
+                "content": "video",
+                "title": "Table of Content and Heading Style Practical",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-27\/videos\/BEG-27-02\/32223f994c7df5023f913b90ab8bb673.mp4",
+                "description": "Practical on Table of Content and Heading Style "
+            },
+            {
+                "id": 211,
+                "content": "quiz",
+                "title": "Quiz 27",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "A __________ can be created using a built-in heading style and outline-level formats.",
+                        "answers": {
+                            "a": "Table",
+                            "b": "Paragraph",
+                            "c": "Word art",
+                            "d": "Table of content"
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "A table of content can be done from ________ tab.",
+                        "answers": {
+                            "a": "Help",
+                            "b": "Insert",
+                            "c": "Reference",
+                            "d": "Layout"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "A table of content has two preview that is ______ and Web previews.",
+                        "answers": {
+                            "a": "Print",
+                            "b": "Draft",
+                            "c": "Outline",
+                            "d": "None of the above"
+                        },
+                        "correctAnswer": "a"
+                    },
+                    {
+                        "question": "The default tab leader in a table of content is ______",
+                        "answers": {
+                            "a": "--------------",
+                            "b": "\u2026\u2026............",
+                            "c": "_________",
+                            "d": "None of the above"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": ". The default show level in a Table of content is________",
+                        "answers": {
+                            "a": "3",
+                            "b": "4",
+                            "c": "6",
+                            "d": "2"
+                        },
+                        "correctAnswer": "a"
+                    }
+                ]
+            },
+            {
+                "id": 212,
+                "lectureId": "BEG-27-02",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-27\/ebook\/660cb06a41b71fc9de8f9c118b41a40b.pdf"
+            }
+        ]
+    },
+    {
+        "chapterNo": "BEG-28",
+        "title": "Spelling, grammar, Thesaurus ",
+        "ebook": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-28\/ebook\/1a181f1579e5dc4acdf668a96cf696c5.pdf",
+        "items": 1,
+        "lecture": [
+            {
+                "id": 213,
+                "lectureId": "BEG-28-01",
+                "content": "video",
+                "title": "Spelling, Grammar and Thesaurus",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-28\/videos\/BEG-28-01\/1250dff47bbcda1e9718c2ed65b22ee8.mp4",
+                "description": "Theory and Practical on Spelling, Grammar and Thesaurus"
+            },
+            {
+                "id": 214,
+                "content": "quiz",
+                "title": "Quiz 28",
+                "description": "Quiz",
+                "questions": [
+                    {
+                        "question": "Thesaurus displays the words that have_______________ meaning to the selected word",
+                        "answers": {
+                            "a": "Different",
+                            "b": "similar",
+                            "c": "Both A & B\t",
+                            "d": "complete"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Shortcut of Thesaurus is _____________",
+                        "answers": {
+                            "a": "Ctrl + T",
+                            "b": "Shift + F7",
+                            "c": "Ctrl + shift+F7",
+                            "d": "None of the above"
+                        },
+                        "correctAnswer": "b"
+                    },
+                    {
+                        "question": "Underline colour of possible spelling mistakes is __________",
+                        "answers": {
+                            "a": "Green",
+                            "b": "Purple",
+                            "c": "Red",
+                            "d": "Blue"
+                        },
+                        "correctAnswer": "c"
+                    },
+                    {
+                        "question": "Underline colour of possible grammar mistakes in MS Word 2016 is __________",
+                        "answers": {
+                            "a": "Green",
+                            "b": "Purple",
+                            "c": "Red",
+                            "d": "Blue"
+                        },
+                        "correctAnswer": "d"
+                    },
+                    {
+                        "question": "Underline style of spelling and grammar mistakes in MS Word is __________",
+                        "answers": {
+                            "a": "Single wavy line",
+                            "b": "Single line",
+                            "c": "Double line",
+                            "d": "Dash line"
+                        },
+                        "correctAnswer": "a"
+                    }
+                ]
+            },
+            {
+                "id": 215,
+                "lectureId": "BEG-28-01",
+                "content": "Notes",
+                "title": "Notes \/ Resources",
+                "description": "EBook",
+                "file": "https:\/\/rkmshillong.online\/public\/media\/BEG\/lectures\/BEG-28\/ebook\/1a181f1579e5dc4acdf668a96cf696c5.pdf"
+            }
+        ]
+    }
+]
